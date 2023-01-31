@@ -1,0 +1,17 @@
+Start Task       : 2021-11-17-1018
+Start Task       : 2021-11-17-1019
+Select Truckload : 1
+Truckload No.    : TM21110031
+Return Date.     : 11/17/2021 12:00:00 AM
+Tote L Max.      : 0
+Tote M Max.      : 3
+Doc Max.         : 3
+G Tote L.        : 0
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 3
+Send TMS         : {"truckload_index":"8fbcee98-9dbc-42a4-ab3b-7466430877f1","truckload_no":"TM21110031","tm_index":"a505b50d-a1ac-4b6b-9d54-c964acae87c8","truckload_return_date":"2021-11-17T00:00:00","return_tote_max_xl":"0","return_tote_max_m":"3","docreturn_max":"3","return_tote_qty_xl":0,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":3}
+Send TMS Result  : True
+End              : --------------------------------------------------------------
+Start Task       : 2021-11-17-1824

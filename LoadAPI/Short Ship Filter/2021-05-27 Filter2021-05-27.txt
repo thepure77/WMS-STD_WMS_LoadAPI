@@ -1,0 +1,39 @@
+Start filter          : 2021-05-27-1425
+Filter data           : {"resultIsUse":false,"resultMsg":null,"truckLoad_No":null,"items":[]}
+Filter data Validate  : กรุณาทำการค้นหาด้วย Shipment No.
+Start filter          : 2021-05-27-1425
+Filter data           : {"resultIsUse":false,"resultMsg":null,"truckLoad_No":null,"items":[]}
+Filter data Validate  : กรุณาทำการค้นหาด้วย Shipment No.
+Start filter          : 2021-05-27-1426
+Filter data           : {"resultIsUse":false,"resultMsg":null,"truckLoad_No":"TM21050043","items":[]}
+Filter data Count     : 53
+Start filter          : 2021-05-27-1427
+Filter data           : {"resultIsUse":false,"resultMsg":null,"truckLoad_No":null,"items":[]}
+Filter data Validate  : กรุณาทำการค้นหาด้วย Shipment No.
+Start filter          : 2021-05-27-1427
+Filter data           : {"resultIsUse":false,"resultMsg":null,"truckLoad_No":"TM21050043","items":[]}
+Filter data Count     : 53
+Start filter          : 2021-05-27-1427
+Filter data           : {"resultIsUse":false,"resultMsg":null,"truckLoad_No":"TM21050043","items":[]}
+Filter data Count     : 53
+Start filter          : 2021-05-27-1437
+Filter data           : {"resultIsUse":false,"resultMsg":null,"truckLoad_No":"TM21050043","items":[]}
+Filter data Count     : 53
+Start filter          : 2021-05-27-1439
+Filter data           : {"resultIsUse":false,"resultMsg":null,"truckLoad_No":"TM21050043","items":[]}
+Filter data Count     : 53
+Start filter          : 2021-05-27-1441
+Filter data           : {"resultIsUse":false,"resultMsg":null,"truckLoad_No":"TM21050043","items":[]}
+Filter data Count     : 53
+Start filter          : 2021-05-27-1443
+Filter data           : {"resultIsUse":false,"resultMsg":null,"truckLoad_No":"TM21050043","items":[]}
+Filter data Count     : 53
+Start filter          : 2021-05-27-1859
+Filter data           : {"resultIsUse":false,"resultMsg":null,"truckLoad_No":"TM21050043","items":[]}
+Filter data Count     : 53
+Start filter          : 2021-05-27-1923
+Filter data           : {"resultIsUse":false,"resultMsg":null,"truckLoad_No":"TM21050043","planGoodsissue_no":null,"items":[]}
+Filter data Count     : 5
+Start filter          : 2021-05-27-1926
+Filter data           : {"resultIsUse":false,"resultMsg":null,"truckLoad_No":"TM21050043","planGoodsissue_no":null,"items":[]}
+Filter data Count     : 5

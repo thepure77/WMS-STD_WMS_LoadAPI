@@ -1,0 +1,16 @@
+Start Task       :2021-05-19-0946
+Select Truckload : 41
+End              : --------------------------------------------------------------
+Start Task       :2021-05-19-0952
+Select Truckload : 1
+Truckload No.    : TM21050042
+Return Date.     : 5/14/2021 12:00:00 AM
+Tote L Max.      : 7
+Tote M Max.      : 1
+Doc Max.         : 4
+G Tote L.        : 7
+G Tote M.        : 1
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 0
+Send TMS         : {"truckload_index":"30ee2aa7-5f66-4d6f-a6b6-fdf3225c66a4","truckload_no":"TM21050042","tm_index":"88657004-05b0-eb11-9756-000c297639ed","truckload_return_date":"2021-05-14T00:00:00","return_tote_max_xl":"7","return_tote_max_m":"1","docreturn_max":"4","return_tote_qty_xl":7,"return_tote_qty_m":1,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":0}

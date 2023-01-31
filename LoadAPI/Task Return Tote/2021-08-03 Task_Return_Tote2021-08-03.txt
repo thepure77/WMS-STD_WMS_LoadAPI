@@ -1,0 +1,2583 @@
+Start Task       : 2021-08-03-1048
+Select Truckload : 120
+Truckload No.    : TM21070031
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 14
+Tote M Max.      : 8
+Doc Max.         : 19
+G Tote L.        : 14
+G Tote M.        : 8
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 19
+Send TMS         : {"truckload_index":"6bf5dcb5-b01b-42b8-8cf2-00e5907dd00f","truckload_no":"TM21070031","tm_index":"b01723dd-108d-4964-b851-a50bf686c4dd","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"14","return_tote_max_m":"8","docreturn_max":"19","return_tote_qty_xl":14,"return_tote_qty_m":8,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":19}
+Send TMS Result  : False
+Truckload No.    : TM21070075
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 6
+Doc Max.         : 16
+G Tote L.        : 13
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 16
+Send TMS         : {"truckload_index":"9b2c704b-d4c1-4a52-aea3-03db52790a0a","truckload_no":"TM21070075","tm_index":"dabe9802-408e-4fdb-a0fa-a1eb7221c871","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"6","docreturn_max":"16","return_tote_qty_xl":13,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":16}
+Send TMS Result  : False
+Truckload No.    : TM21070100
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 15
+Tote M Max.      : 7
+Doc Max.         : 18
+G Tote L.        : 15
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 18
+Send TMS         : {"truckload_index":"cc36f742-7244-4c26-8e17-044219146760","truckload_no":"TM21070100","tm_index":"dd257a3b-3860-4768-96ae-611ea83df021","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"15","return_tote_max_m":"7","docreturn_max":"18","return_tote_qty_xl":15,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":18}
+Send TMS Result  : False
+Truckload No.    : TM21070039
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 6
+Doc Max.         : 10
+G Tote L.        : 13
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 10
+Send TMS         : {"truckload_index":"4d8a5657-d7d5-46fa-8491-04dd940aaafd","truckload_no":"TM21070039","tm_index":"d0496fcb-7592-4116-b80f-cf50c282906c","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"6","docreturn_max":"10","return_tote_qty_xl":13,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":10}
+Send TMS Result  : False
+Truckload No.    : TM21070083
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 3
+Doc Max.         : 8
+G Tote L.        : 13
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 8
+Send TMS         : {"truckload_index":"17813d26-b2ca-441b-93b8-09eda99112db","truckload_no":"TM21070083","tm_index":"ca54f504-04d1-44bf-a433-eca1a43ed429","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"3","docreturn_max":"8","return_tote_qty_xl":13,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":8}
+Send TMS Result  : False
+Truckload No.    : TM21070065
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 10
+Tote M Max.      : 3
+Doc Max.         : 12
+G Tote L.        : 10
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 12
+Send TMS         : {"truckload_index":"fa50acb3-340e-4b1a-86e2-0bb132f6830c","truckload_no":"TM21070065","tm_index":"23429604-b8f2-44a5-a933-b37630bc6050","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"10","return_tote_max_m":"3","docreturn_max":"12","return_tote_qty_xl":10,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":12}
+Send TMS Result  : False
+Truckload No.    : TM21070007
+Return Date.     : 7/3/2021 12:00:00 AM
+Tote L Max.      : 14
+Tote M Max.      : 5
+Doc Max.         : 14
+G Tote L.        : 14
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 14
+Send TMS         : {"truckload_index":"64ef34f9-49e9-4556-8c20-0f9cec8c5dd3","truckload_no":"TM21070007","tm_index":"1192f2aa-d16b-4636-9bb0-c3b5f445d711","truckload_return_date":"2021-07-03T00:00:00","return_tote_max_xl":"14","return_tote_max_m":"5","docreturn_max":"14","return_tote_qty_xl":14,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":14}
+Send TMS Result  : False
+Truckload No.    : TM21070057
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 20
+Tote M Max.      : 1
+Doc Max.         : 5
+G Tote L.        : 20
+G Tote M.        : 1
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 5
+Send TMS         : {"truckload_index":"5e26093c-4da6-4ae0-9116-14a66d80d1de","truckload_no":"TM21070057","tm_index":"ee7a6ee4-4520-467a-b578-28a6ea5a0e14","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"20","return_tote_max_m":"1","docreturn_max":"5","return_tote_qty_xl":20,"return_tote_qty_m":1,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":5}
+Send TMS Result  : False
+Truckload No.    : TM21070035
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 20
+Tote M Max.      : 11
+Doc Max.         : 24
+G Tote L.        : 20
+G Tote M.        : 11
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 24
+Send TMS         : {"truckload_index":"cd186c25-9c96-49c4-b864-1614a0893bca","truckload_no":"TM21070035","tm_index":"c5637af4-22b8-4cf3-9880-2cf61a2c6c40","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"20","return_tote_max_m":"11","docreturn_max":"24","return_tote_qty_xl":20,"return_tote_qty_m":11,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":24}
+Send TMS Result  : False
+Truckload No.    : TM21070124
+Return Date.     : 7/10/2021 12:00:00 AM
+Tote L Max.      : 10
+Tote M Max.      : 12
+Doc Max.         : 24
+G Tote L.        : 10
+G Tote M.        : 12
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 24
+Send TMS         : {"truckload_index":"e33205e9-874f-4c34-9737-184734225853","truckload_no":"TM21070124","tm_index":"b7c4f9ea-1339-4867-b17d-295b49654a92","truckload_return_date":"2021-07-10T00:00:00","return_tote_max_xl":"10","return_tote_max_m":"12","docreturn_max":"24","return_tote_qty_xl":10,"return_tote_qty_m":12,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":24}
+Send TMS Result  : False
+Truckload No.    : TM21070006
+Return Date.     : 7/3/2021 12:00:00 AM
+Tote L Max.      : 12
+Tote M Max.      : 5
+Doc Max.         : 11
+G Tote L.        : 12
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 11
+Send TMS         : {"truckload_index":"a565093a-8895-4ae0-b950-1b0f9bc25de2","truckload_no":"TM21070006","tm_index":"22f1f107-81dd-4106-9c04-2cae784f74ef","truckload_return_date":"2021-07-03T00:00:00","return_tote_max_xl":"12","return_tote_max_m":"5","docreturn_max":"11","return_tote_qty_xl":12,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":11}
+Send TMS Result  : False
+Truckload No.    : TM21070084
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 4
+Tote M Max.      : 9
+Doc Max.         : 14
+G Tote L.        : 4
+G Tote M.        : 9
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 14
+Send TMS         : {"truckload_index":"56fd3d8d-4592-4e40-bd5b-1b4587160ab9","truckload_no":"TM21070084","tm_index":"1ccf306b-71b7-4ed1-94a3-6ef21c590537","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"4","return_tote_max_m":"9","docreturn_max":"14","return_tote_qty_xl":4,"return_tote_qty_m":9,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":14}
+Send TMS Result  : False
+Truckload No.    : TM21070040
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 16
+Tote M Max.      : 4
+Doc Max.         : 12
+G Tote L.        : 16
+G Tote M.        : 4
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 12
+Send TMS         : {"truckload_index":"b718d06c-4395-4ea9-9307-1b611a2ac5eb","truckload_no":"TM21070040","tm_index":"d725546b-b196-4f16-bf93-327f00cdf1bd","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"16","return_tote_max_m":"4","docreturn_max":"12","return_tote_qty_xl":16,"return_tote_qty_m":4,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":12}
+Send TMS Result  : False
+Truckload No.    : TM21070058
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 14
+Tote M Max.      : 5
+Doc Max.         : 11
+G Tote L.        : 14
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 11
+Send TMS         : {"truckload_index":"fc612c04-3c9c-4099-ac88-1d50a2aca19b","truckload_no":"TM21070058","tm_index":"bcae4b0d-33ed-4029-8ad3-e3d4b1fe4200","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"14","return_tote_max_m":"5","docreturn_max":"11","return_tote_qty_xl":14,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":11}
+Send TMS Result  : False
+Truckload No.    : TM21070004
+Return Date.     : 7/3/2021 12:00:00 AM
+Tote L Max.      : 7
+Tote M Max.      : 6
+Doc Max.         : 8
+G Tote L.        : 7
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 8
+Send TMS         : {"truckload_index":"4752725e-27b8-4750-91a1-1f01941bb2ec","truckload_no":"TM21070004","tm_index":"9cf0226d-7c21-4f7c-9897-4271fa004b24","truckload_return_date":"2021-07-03T00:00:00","return_tote_max_xl":"7","return_tote_max_m":"6","docreturn_max":"8","return_tote_qty_xl":7,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":8}
+Send TMS Result  : False
+Truckload No.    : TM21070002
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 15
+Tote M Max.      : 3
+Doc Max.         : 10
+G Tote L.        : 15
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 10
+Send TMS         : {"truckload_index":"6076206d-1fc5-44f2-a51e-20bb3b4714ff","truckload_no":"TM21070002","tm_index":"c7621ad9-9b4a-48c0-9953-73531160845d","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"15","return_tote_max_m":"3","docreturn_max":"10","return_tote_qty_xl":15,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":10}
+Send TMS Result  : False
+Truckload No.    : TM21070048
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 10
+Tote M Max.      : 6
+Doc Max.         : 12
+G Tote L.        : 10
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 12
+Send TMS         : {"truckload_index":"b99d66e1-2eef-4277-ab81-20c1b9f748ef","truckload_no":"TM21070048","tm_index":"510d884a-801b-424f-bbf7-18ecdfb9f04b","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"10","return_tote_max_m":"6","docreturn_max":"12","return_tote_qty_xl":10,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":12}
+Send TMS Result  : False
+Truckload No.    : TM21070012
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 15
+Tote M Max.      : 9
+Doc Max.         : 16
+G Tote L.        : 15
+G Tote M.        : 9
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 16
+Send TMS         : {"truckload_index":"cd55dc8a-a10f-4d75-9e3d-255e4887ed1b","truckload_no":"TM21070012","tm_index":"5064e256-a793-43db-a51d-d1caf6d82a8d","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"15","return_tote_max_m":"9","docreturn_max":"16","return_tote_qty_xl":15,"return_tote_qty_m":9,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":16}
+Send TMS Result  : False
+Truckload No.    : TM21070009
+Return Date.     : 7/3/2021 12:00:00 AM
+Tote L Max.      : 19
+Tote M Max.      : 6
+Doc Max.         : 19
+G Tote L.        : 19
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 19
+Send TMS         : {"truckload_index":"5d9af438-2b2f-44bc-bf4d-287c29bde0e0","truckload_no":"TM21070009","tm_index":"fc33eb7f-5374-4dfc-907b-c2da7a7bfd50","truckload_return_date":"2021-07-03T00:00:00","return_tote_max_xl":"19","return_tote_max_m":"6","docreturn_max":"19","return_tote_qty_xl":19,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":19}
+Send TMS Result  : False
+Truckload No.    : TM21070024
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 0
+Tote M Max.      : 0
+Doc Max.         : 2
+G Tote L.        : 0
+G Tote M.        : 0
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 2
+Send TMS         : {"truckload_index":"cbde143b-fcd1-4b41-9080-2ab39c6f2e8e","truckload_no":"TM21070024","tm_index":"f0c7b648-a1cb-4144-bf64-3765c515b412","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"0","return_tote_max_m":"0","docreturn_max":"2","return_tote_qty_xl":0,"return_tote_qty_m":0,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":2}
+Send TMS Result  : False
+Truckload No.    : TM21070088
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 8
+Tote M Max.      : 3
+Doc Max.         : 7
+G Tote L.        : 8
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 7
+Send TMS         : {"truckload_index":"c3f348b1-51c4-43b6-8b9b-2c8105142e25","truckload_no":"TM21070088","tm_index":"bec10e31-8a15-4da5-b941-9d800907f215","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"8","return_tote_max_m":"3","docreturn_max":"7","return_tote_qty_xl":8,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":7}
+Send TMS Result  : False
+Truckload No.    : TM21070099
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 7
+Doc Max.         : 12
+G Tote L.        : 13
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 12
+Send TMS         : {"truckload_index":"ab2785a7-f1ec-427f-81b5-2cd213303754","truckload_no":"TM21070099","tm_index":"d78c6cf3-9de7-49c7-aac8-1b5433347d54","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"7","docreturn_max":"12","return_tote_qty_xl":13,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":12}
+Send TMS Result  : False
+Truckload No.    : TM21070016
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 10
+Tote M Max.      : 2
+Doc Max.         : 6
+G Tote L.        : 10
+G Tote M.        : 2
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 6
+Send TMS         : {"truckload_index":"8888cd2d-9719-4173-b336-2cd7a83b7a51","truckload_no":"TM21070016","tm_index":"a7c8631b-f761-4020-b9b6-4bfdf1b425c9","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"10","return_tote_max_m":"2","docreturn_max":"6","return_tote_qty_xl":10,"return_tote_qty_m":2,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":6}
+Send TMS Result  : False
+Truckload No.    : TM21070104
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 0
+Tote M Max.      : 0
+Doc Max.         : 2
+G Tote L.        : 0
+G Tote M.        : 0
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 2
+Send TMS         : {"truckload_index":"ef69b864-e3a2-413f-b957-2f2084c955a1","truckload_no":"TM21070104","tm_index":"d699f15d-c860-4ec8-ba7e-53015e8b78b2","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"0","return_tote_max_m":"0","docreturn_max":"2","return_tote_qty_xl":0,"return_tote_qty_m":0,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":2}
+Send TMS Result  : False
+Truckload No.    : TM21070114
+Return Date.     : 7/14/2021 12:00:00 AM
+Tote L Max.      : 20
+Tote M Max.      : 5
+Doc Max.         : 22
+G Tote L.        : 20
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 22
+Send TMS         : {"truckload_index":"1baea22c-bb40-43d0-82de-308511834196","truckload_no":"TM21070114","tm_index":"e156a5bf-60f7-41c2-be4f-61b2352ad713","truckload_return_date":"2021-07-14T00:00:00","return_tote_max_xl":"20","return_tote_max_m":"5","docreturn_max":"22","return_tote_qty_xl":20,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":22}
+Send TMS Result  : False
+Truckload No.    : TM21070053
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 6
+Tote M Max.      : 2
+Doc Max.         : 3
+G Tote L.        : 6
+G Tote M.        : 2
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 3
+Send TMS         : {"truckload_index":"105e982f-6477-4afc-be74-30c8cf324881","truckload_no":"TM21070053","tm_index":"37f526b6-9684-4d3b-ad58-42243e720e52","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"6","return_tote_max_m":"2","docreturn_max":"3","return_tote_qty_xl":6,"return_tote_qty_m":2,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":3}
+Send TMS Result  : False
+Truckload No.    : TM21070110
+Return Date.     : 7/14/2021 12:00:00 AM
+Tote L Max.      : 17
+Tote M Max.      : 9
+Doc Max.         : 21
+G Tote L.        : 17
+G Tote M.        : 9
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 21
+Send TMS         : {"truckload_index":"e96925a8-7b95-4b83-b3e9-30d1db484e59","truckload_no":"TM21070110","tm_index":"d64a8228-ec37-407c-89d1-fc992b64aa48","truckload_return_date":"2021-07-14T00:00:00","return_tote_max_xl":"17","return_tote_max_m":"9","docreturn_max":"21","return_tote_qty_xl":17,"return_tote_qty_m":9,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":21}
+Send TMS Result  : False
+Truckload No.    : TM21070003
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 0
+Doc Max.         : 5
+G Tote L.        : 13
+G Tote M.        : 0
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 5
+Send TMS         : {"truckload_index":"56046696-d94b-4484-981a-30edc3ef5650","truckload_no":"TM21070003","tm_index":"3ad2bb46-f0e8-4699-a819-803d0a57fcaf","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"0","docreturn_max":"5","return_tote_qty_xl":13,"return_tote_qty_m":0,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":5}
+Send TMS Result  : False
+Truckload No.    : TM21070013
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 9
+Tote M Max.      : 6
+Doc Max.         : 9
+G Tote L.        : 9
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 9
+Send TMS         : {"truckload_index":"431a0c8f-62d5-4833-8c6e-33bbd1ec2238","truckload_no":"TM21070013","tm_index":"0aed6514-a632-47e6-82e3-fdfe314dc945","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"9","return_tote_max_m":"6","docreturn_max":"9","return_tote_qty_xl":9,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":9}
+Send TMS Result  : False
+Truckload No.    : TM21070103
+Return Date.     : 7/10/2021 12:00:00 AM
+Tote L Max.      : 12
+Tote M Max.      : 2
+Doc Max.         : 6
+G Tote L.        : 12
+G Tote M.        : 2
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 6
+Send TMS         : {"truckload_index":"ad81e7df-8d79-4367-beae-35e895c19102","truckload_no":"TM21070103","tm_index":"88f9dae8-2d89-4a11-8300-c1ef2938dbf5","truckload_return_date":"2021-07-10T00:00:00","return_tote_max_xl":"12","return_tote_max_m":"2","docreturn_max":"6","return_tote_qty_xl":12,"return_tote_qty_m":2,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":6}
+Send TMS Result  : False
+Truckload No.    : TM21070034
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 17
+Tote M Max.      : 11
+Doc Max.         : 24
+G Tote L.        : 17
+G Tote M.        : 11
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 24
+Send TMS         : {"truckload_index":"a97de6ee-2766-4533-b446-39e6f6ca1f0b","truckload_no":"TM21070034","tm_index":"757dc769-2f30-4328-ac79-b4bbfe2d918f","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"17","return_tote_max_m":"11","docreturn_max":"24","return_tote_qty_xl":17,"return_tote_qty_m":11,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":24}
+Send TMS Result  : False
+Truckload No.    : TM21070041
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 12
+Tote M Max.      : 7
+Doc Max.         : 10
+G Tote L.        : 12
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 10
+Send TMS         : {"truckload_index":"24ed0780-2b7f-4114-b426-3c6371f137e0","truckload_no":"TM21070041","tm_index":"1d1cabd8-2b57-454f-9774-857cc662fee3","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"12","return_tote_max_m":"7","docreturn_max":"10","return_tote_qty_xl":12,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":10}
+Send TMS Result  : False
+Truckload No.    : TM21070082
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 10
+Tote M Max.      : 4
+Doc Max.         : 11
+G Tote L.        : 10
+G Tote M.        : 4
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 11
+Send TMS         : {"truckload_index":"e3585a1d-5899-4037-8077-3f121879fde4","truckload_no":"TM21070082","tm_index":"e1c2d614-1d29-4187-969e-1355d1adb343","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"10","return_tote_max_m":"4","docreturn_max":"11","return_tote_qty_xl":10,"return_tote_qty_m":4,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":11}
+Send TMS Result  : False
+Truckload No.    : TM21070115
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 30
+Tote M Max.      : 11
+Doc Max.         : 23
+G Tote L.        : 30
+G Tote M.        : 11
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 23
+Send TMS         : {"truckload_index":"70f4791e-e7b9-4aa2-8620-447306be8ce4","truckload_no":"TM21070115","tm_index":"eaac7e6b-3f9c-47da-9b51-07cf1dccc03b","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"30","return_tote_max_m":"11","docreturn_max":"23","return_tote_qty_xl":30,"return_tote_qty_m":11,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":23}
+Send TMS Result  : False
+Truckload No.    : TM21070014
+Return Date.     : 7/3/2021 12:00:00 AM
+Tote L Max.      : 6
+Tote M Max.      : 0
+Doc Max.         : 2
+G Tote L.        : 6
+G Tote M.        : 0
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 2
+Send TMS         : {"truckload_index":"595f0ff3-b01f-4da4-adfa-47518b522330","truckload_no":"TM21070014","tm_index":"4768d0eb-3950-4cd0-ab70-11056573dc33","truckload_return_date":"2021-07-03T00:00:00","return_tote_max_xl":"6","return_tote_max_m":"0","docreturn_max":"2","return_tote_qty_xl":6,"return_tote_qty_m":0,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":2}
+Send TMS Result  : False
+Truckload No.    : TM21070074
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 19
+Tote M Max.      : 6
+Doc Max.         : 16
+G Tote L.        : 19
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 16
+Send TMS         : {"truckload_index":"06b18627-dbda-4c14-95a5-499fa7f3c50e","truckload_no":"TM21070074","tm_index":"56b5b2f8-a5e5-4ed0-9ff5-7ecb22d1e104","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"19","return_tote_max_m":"6","docreturn_max":"16","return_tote_qty_xl":19,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":16}
+Send TMS Result  : False
+Truckload No.    : TM21070121
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 10
+Tote M Max.      : 6
+Doc Max.         : 15
+G Tote L.        : 10
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 15
+Send TMS         : {"truckload_index":"bffa5f59-2c2e-4f87-9bad-4c6a5bc5ca00","truckload_no":"TM21070121","tm_index":"9790b7f2-4782-4548-acd6-c3278f5f3ff0","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"10","return_tote_max_m":"6","docreturn_max":"15","return_tote_qty_xl":10,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":15}
+Send TMS Result  : False
+Truckload No.    : TM21070112
+Return Date.     : 7/14/2021 12:00:00 AM
+Tote L Max.      : 8
+Tote M Max.      : 5
+Doc Max.         : 13
+G Tote L.        : 8
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 13
+Send TMS         : {"truckload_index":"c856af46-82c3-4182-a3b8-4e38471d7209","truckload_no":"TM21070112","tm_index":"6b5c5221-6cd5-48d3-ac37-076fa0890521","truckload_return_date":"2021-07-14T00:00:00","return_tote_max_xl":"8","return_tote_max_m":"5","docreturn_max":"13","return_tote_qty_xl":8,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":13}
+Send TMS Result  : False
+Truckload No.    : TM21070056
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 8
+Tote M Max.      : 1
+Doc Max.         : 2
+G Tote L.        : 8
+G Tote M.        : 1
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 2
+Send TMS         : {"truckload_index":"1e1eec01-ac75-4723-ac61-5189bf198641","truckload_no":"TM21070056","tm_index":"a6daae41-2a26-4258-82f6-c079e38d920a","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"8","return_tote_max_m":"1","docreturn_max":"2","return_tote_qty_xl":8,"return_tote_qty_m":1,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":2}
+Send TMS Result  : False
+Truckload No.    : TM21070098
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 6
+Doc Max.         : 12
+G Tote L.        : 13
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 12
+Send TMS         : {"truckload_index":"aeab0f33-517d-4712-8f88-541abea62476","truckload_no":"TM21070098","tm_index":"77ad07c9-14f5-43fb-9ea7-4e388986e323","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"6","docreturn_max":"12","return_tote_qty_xl":13,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":12}
+Send TMS Result  : False
+Truckload No.    : TM21070106
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 15
+Tote M Max.      : 7
+Doc Max.         : 15
+G Tote L.        : 15
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 15
+Send TMS         : {"truckload_index":"cd2cc367-504c-45b5-b778-5658d83a07c4","truckload_no":"TM21070106","tm_index":"fc2282a4-3c80-4288-8a51-5899e827ac91","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"15","return_tote_max_m":"7","docreturn_max":"15","return_tote_qty_xl":15,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":15}
+Send TMS Result  : False
+Truckload No.    : TM21070038
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 10
+Tote M Max.      : 10
+Doc Max.         : 13
+G Tote L.        : 10
+G Tote M.        : 10
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 13
+Send TMS         : {"truckload_index":"b4255cbd-82f8-4ad1-9c98-5b8e91c3afe5","truckload_no":"TM21070038","tm_index":"6e6a5aaa-3d0b-4532-b2bf-5be413a62881","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"10","return_tote_max_m":"10","docreturn_max":"13","return_tote_qty_xl":10,"return_tote_qty_m":10,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":13}
+Send TMS Result  : False
+Truckload No.    : TM21070030
+Return Date.     : 7/6/2021 12:00:00 AM
+Tote L Max.      : 23
+Tote M Max.      : 6
+Doc Max.         : 23
+G Tote L.        : 23
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 23
+Send TMS         : {"truckload_index":"a173d4ff-7fc3-4cef-bd88-5bf2a32fdb25","truckload_no":"TM21070030","tm_index":"308ee14f-b65c-4fb0-8239-8d99d2245326","truckload_return_date":"2021-07-06T00:00:00","return_tote_max_xl":"23","return_tote_max_m":"6","docreturn_max":"23","return_tote_qty_xl":23,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":23}
+Send TMS Result  : False
+Truckload No.    : TM21070067
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 16
+Tote M Max.      : 2
+Doc Max.         : 13
+G Tote L.        : 16
+G Tote M.        : 2
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 13
+Send TMS         : {"truckload_index":"8a9d298d-d4fb-4f17-8b38-5f2e841ceecf","truckload_no":"TM21070067","tm_index":"63b4a6c7-acef-4f60-97c7-11110df3c6f0","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"16","return_tote_max_m":"2","docreturn_max":"13","return_tote_qty_xl":16,"return_tote_qty_m":2,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":13}
+Send TMS Result  : False
+Truckload No.    : TM21070021
+Return Date.     : 7/6/2021 12:00:00 AM
+Tote L Max.      : 18
+Tote M Max.      : 7
+Doc Max.         : 18
+G Tote L.        : 18
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 18
+Send TMS         : {"truckload_index":"aee73bf7-afbe-403f-851d-610009f30c58","truckload_no":"TM21070021","tm_index":"efe6bfeb-00b7-44cf-9d64-f03344e77808","truckload_return_date":"2021-07-06T00:00:00","return_tote_max_xl":"18","return_tote_max_m":"7","docreturn_max":"18","return_tote_qty_xl":18,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":18}
+Send TMS Result  : False
+Truckload No.    : TM21070066
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 16
+Tote M Max.      : 2
+Doc Max.         : 7
+G Tote L.        : 16
+G Tote M.        : 2
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 7
+Send TMS         : {"truckload_index":"0bcc8591-663c-4795-a070-6553642a102c","truckload_no":"TM21070066","tm_index":"d8b1b6f1-573d-4a2b-941a-3c22112e540a","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"16","return_tote_max_m":"2","docreturn_max":"7","return_tote_qty_xl":16,"return_tote_qty_m":2,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":7}
+Send TMS Result  : False
+Truckload No.    : TM21070111
+Return Date.     : 7/14/2021 12:00:00 AM
+Tote L Max.      : 19
+Tote M Max.      : 8
+Doc Max.         : 21
+G Tote L.        : 19
+G Tote M.        : 8
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 21
+Send TMS         : {"truckload_index":"02acbf44-96f2-45a6-95c0-6575815291e2","truckload_no":"TM21070111","tm_index":"5ef495ab-823f-4d22-ad9e-78bd34ca0c34","truckload_return_date":"2021-07-14T00:00:00","return_tote_max_xl":"19","return_tote_max_m":"8","docreturn_max":"21","return_tote_qty_xl":19,"return_tote_qty_m":8,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":21}
+Send TMS Result  : False
+Truckload No.    : TM21070071
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 21
+Tote M Max.      : 7
+Doc Max.         : 16
+G Tote L.        : 21
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 16
+Send TMS         : {"truckload_index":"9a06a9ed-6c1c-4838-8839-6728401d0bcf","truckload_no":"TM21070071","tm_index":"7fff3ab2-60a0-4676-abd0-04f595e33e63","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"21","return_tote_max_m":"7","docreturn_max":"16","return_tote_qty_xl":21,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":16}
+Send TMS Result  : False
+Truckload No.    : TM21070064
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 8
+Tote M Max.      : 5
+Doc Max.         : 7
+G Tote L.        : 8
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 7
+Send TMS         : {"truckload_index":"0cb49bc4-acca-443c-801e-67ec6fa41757","truckload_no":"TM21070064","tm_index":"de0514d9-d117-49d3-b452-bfb4399cb679","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"8","return_tote_max_m":"5","docreturn_max":"7","return_tote_qty_xl":8,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":7}
+Send TMS Result  : False
+Truckload No.    : TM21070008
+Return Date.     : 7/3/2021 12:00:00 AM
+Tote L Max.      : 12
+Tote M Max.      : 7
+Doc Max.         : 13
+G Tote L.        : 12
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 13
+Send TMS         : {"truckload_index":"2666ba1c-5464-4d20-a3c9-6aa9725872c4","truckload_no":"TM21070008","tm_index":"b3b0c4f6-6052-421c-a0d8-4d2af4075c30","truckload_return_date":"2021-07-03T00:00:00","return_tote_max_xl":"12","return_tote_max_m":"7","docreturn_max":"13","return_tote_qty_xl":12,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":13}
+Send TMS Result  : False
+Truckload No.    : TM21070051
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 8
+Tote M Max.      : 6
+Doc Max.         : 9
+G Tote L.        : 8
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 9
+Send TMS         : {"truckload_index":"1ed9baa6-cedc-4849-8a22-6b717c82895f","truckload_no":"TM21070051","tm_index":"8818db85-6371-40e7-95c5-612f5cf2eb75","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"8","return_tote_max_m":"6","docreturn_max":"9","return_tote_qty_xl":8,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":9}
+Send TMS Result  : False
+Truckload No.    : TM21070001
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 18
+Tote M Max.      : 4
+Doc Max.         : 16
+G Tote L.        : 18
+G Tote M.        : 4
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 16
+Send TMS         : {"truckload_index":"609b06dc-f705-4360-b49d-6c47229318d2","truckload_no":"TM21070001","tm_index":"ff2d3a83-7ebc-463d-87d8-26b14709a5b2","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"18","return_tote_max_m":"4","docreturn_max":"16","return_tote_qty_xl":18,"return_tote_qty_m":4,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":16}
+Send TMS Result  : False
+Truckload No.    : TM21070037
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 22
+Tote M Max.      : 13
+Doc Max.         : 25
+G Tote L.        : 22
+G Tote M.        : 13
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 25
+Send TMS         : {"truckload_index":"89de498f-2f67-43ce-bc81-6df97c11b769","truckload_no":"TM21070037","tm_index":"5474bce9-b9bf-449c-859f-3f76cd62c8d9","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"22","return_tote_max_m":"13","docreturn_max":"25","return_tote_qty_xl":22,"return_tote_qty_m":13,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":25}
+Send TMS Result  : False
+Truckload No.    : TM21070123
+Return Date.     : 7/10/2021 12:00:00 AM
+Tote L Max.      : 15
+Tote M Max.      : 8
+Doc Max.         : 13
+G Tote L.        : 15
+G Tote M.        : 8
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 13
+Send TMS         : {"truckload_index":"05bc31dd-65ce-48cf-85e8-7180808c3102","truckload_no":"TM21070123","tm_index":"c29ac9e6-6cb7-41c2-b73b-0834e985fd82","truckload_return_date":"2021-07-10T00:00:00","return_tote_max_xl":"15","return_tote_max_m":"8","docreturn_max":"13","return_tote_qty_xl":15,"return_tote_qty_m":8,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":13}
+Send TMS Result  : False
+Truckload No.    : TM21070078
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 11
+Tote M Max.      : 5
+Doc Max.         : 9
+G Tote L.        : 11
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 9
+Send TMS         : {"truckload_index":"472efa85-9941-420f-b7b1-7ed35ae42442","truckload_no":"TM21070078","tm_index":"f2ba2347-c407-4119-b5e0-cc7251adf2c9","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"11","return_tote_max_m":"5","docreturn_max":"9","return_tote_qty_xl":11,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":9}
+Send TMS Result  : False
+Truckload No.    : TM21070068
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 6
+Tote M Max.      : 3
+Doc Max.         : 4
+G Tote L.        : 6
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 4
+Send TMS         : {"truckload_index":"702a08f8-b626-4e30-8880-7f3ae3e9448a","truckload_no":"TM21070068","tm_index":"62b99f37-87e2-42d0-b367-ae2dd3d33f21","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"6","return_tote_max_m":"3","docreturn_max":"4","return_tote_qty_xl":6,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":4}
+Send TMS Result  : False
+Truckload No.    : TM21070036
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 6
+Tote M Max.      : 3
+Doc Max.         : 8
+G Tote L.        : 6
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 8
+Send TMS         : {"truckload_index":"63342f9f-c798-4a51-8efc-8189c5ede098","truckload_no":"TM21070036","tm_index":"f8c94d49-5948-40d9-9114-5088c2635a2e","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"6","return_tote_max_m":"3","docreturn_max":"8","return_tote_qty_xl":6,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":8}
+Send TMS Result  : False
+Truckload No.    : TM21070015
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 16
+Tote M Max.      : 7
+Doc Max.         : 18
+G Tote L.        : 16
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 18
+Send TMS         : {"truckload_index":"ea560bd5-eaa0-43e6-8394-81a8696194d1","truckload_no":"TM21070015","tm_index":"2296a6ce-05fa-40a8-9a75-ddb7e19977dd","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"16","return_tote_max_m":"7","docreturn_max":"18","return_tote_qty_xl":16,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":18}
+Send TMS Result  : False
+Truckload No.    : TM21070033
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 18
+Tote M Max.      : 10
+Doc Max.         : 20
+G Tote L.        : 18
+G Tote M.        : 10
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 20
+Send TMS         : {"truckload_index":"47a7aad9-853a-4f20-ae98-81c9e8a41df7","truckload_no":"TM21070033","tm_index":"758aa2fb-cef3-4415-8269-4553e51374d2","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"18","return_tote_max_m":"10","docreturn_max":"20","return_tote_qty_xl":18,"return_tote_qty_m":10,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":20}
+Send TMS Result  : False
+Truckload No.    : TM21070043
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 17
+Tote M Max.      : 5
+Doc Max.         : 19
+G Tote L.        : 17
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 19
+Send TMS         : {"truckload_index":"66fe4820-aa8b-40f0-841b-824007e7b922","truckload_no":"TM21070043","tm_index":"600aae68-9d94-4b8c-a14a-65dea6e196fb","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"17","return_tote_max_m":"5","docreturn_max":"19","return_tote_qty_xl":17,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":19}
+Send TMS Result  : False
+Truckload No.    : TM21070113
+Return Date.     : 7/14/2021 12:00:00 AM
+Tote L Max.      : 16
+Tote M Max.      : 5
+Doc Max.         : 12
+G Tote L.        : 16
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 12
+Send TMS         : {"truckload_index":"2a5cad99-7cc0-4c64-ad95-82a73515eba3","truckload_no":"TM21070113","tm_index":"2fe7191d-c095-4399-bfa5-81c40c121316","truckload_return_date":"2021-07-14T00:00:00","return_tote_max_xl":"16","return_tote_max_m":"5","docreturn_max":"12","return_tote_qty_xl":16,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":12}
+Send TMS Result  : False
+Truckload No.    : TM21070050
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 20
+Tote M Max.      : 2
+Doc Max.         : 4
+G Tote L.        : 20
+G Tote M.        : 2
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 4
+Send TMS         : {"truckload_index":"7cac0825-92f9-432b-94a9-841905d385ec","truckload_no":"TM21070050","tm_index":"49090759-02f7-4096-8127-bab636fd0773","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"20","return_tote_max_m":"2","docreturn_max":"4","return_tote_qty_xl":20,"return_tote_qty_m":2,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":4}
+Send TMS Result  : False
+Truckload No.    : TM21070108
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 6
+Tote M Max.      : 0
+Doc Max.         : 9
+G Tote L.        : 6
+G Tote M.        : 0
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 9
+Send TMS         : {"truckload_index":"db3b3a0f-b37f-4204-9a98-8509db583e31","truckload_no":"TM21070108","tm_index":"7467f336-e344-4388-8f41-12c68070a9ba","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"6","return_tote_max_m":"0","docreturn_max":"9","return_tote_qty_xl":6,"return_tote_qty_m":0,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":9}
+Send TMS Result  : False
+Truckload No.    : TM21070105
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 17
+Tote M Max.      : 4
+Doc Max.         : 13
+G Tote L.        : 17
+G Tote M.        : 4
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 13
+Send TMS         : {"truckload_index":"0c3f191c-bd37-4f6b-a98f-85ef196458b9","truckload_no":"TM21070105","tm_index":"c472d7b4-464e-4b8a-8c82-89cbb0d5c0d1","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"17","return_tote_max_m":"4","docreturn_max":"13","return_tote_qty_xl":17,"return_tote_qty_m":4,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":13}
+Send TMS Result  : False
+Truckload No.    : TM21070062
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 7
+Tote M Max.      : 3
+Doc Max.         : 5
+G Tote L.        : 7
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 5
+Send TMS         : {"truckload_index":"3bb96143-a691-4d98-ba1b-8639b4030950","truckload_no":"TM21070062","tm_index":"cefbf454-5208-4973-ae7c-f7c8e0db4c91","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"7","return_tote_max_m":"3","docreturn_max":"5","return_tote_qty_xl":7,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":5}
+Send TMS Result  : False
+Truckload No.    : TM21070025
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 6
+Doc Max.         : 14
+G Tote L.        : 13
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 14
+Send TMS         : {"truckload_index":"00c3facc-68a0-403b-a79e-879d8e8088c5","truckload_no":"TM21070025","tm_index":"d1778f30-64b9-44ad-bb65-143339c95e0d","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"6","docreturn_max":"14","return_tote_qty_xl":13,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":14}
+Send TMS Result  : False
+Truckload No.    : TM21070061
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 10
+Tote M Max.      : 4
+Doc Max.         : 9
+G Tote L.        : 10
+G Tote M.        : 4
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 9
+Send TMS         : {"truckload_index":"434768f4-6046-43fe-9e8b-880bb64607e6","truckload_no":"TM21070061","tm_index":"5fed575d-e18b-4959-b35d-537446011678","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"10","return_tote_max_m":"4","docreturn_max":"9","return_tote_qty_xl":10,"return_tote_qty_m":4,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":9}
+Send TMS Result  : False
+Truckload No.    : TM21070044
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 6
+Doc Max.         : 14
+G Tote L.        : 13
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 14
+Send TMS         : {"truckload_index":"d4ee5e5b-0f1a-4fa7-a97f-8a900f6149dc","truckload_no":"TM21070044","tm_index":"beefd3c3-365b-49fa-94a5-a4650a84f8fe","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"6","docreturn_max":"14","return_tote_qty_xl":13,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":14}
+Send TMS Result  : False
+Truckload No.    : TM21070070
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 20
+Tote M Max.      : 4
+Doc Max.         : 14
+G Tote L.        : 20
+G Tote M.        : 4
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 14
+Send TMS         : {"truckload_index":"349e9236-b69e-425d-9b42-8b39d00b36bd","truckload_no":"TM21070070","tm_index":"daf196f4-49d5-45af-a793-31ab20768ae7","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"20","return_tote_max_m":"4","docreturn_max":"14","return_tote_qty_xl":20,"return_tote_qty_m":4,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":14}
+Send TMS Result  : False
+Truckload No.    : TM21070063
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 5
+Tote M Max.      : 2
+Doc Max.         : 6
+G Tote L.        : 5
+G Tote M.        : 2
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 6
+Send TMS         : {"truckload_index":"621e8989-6b95-4684-99a5-8b7edb01e275","truckload_no":"TM21070063","tm_index":"2387f6a7-2b7c-42b3-be83-956ee7e89a7a","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"5","return_tote_max_m":"2","docreturn_max":"6","return_tote_qty_xl":5,"return_tote_qty_m":2,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":6}
+Send TMS Result  : False
+Truckload No.    : TM21070085
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 8
+Tote M Max.      : 5
+Doc Max.         : 6
+G Tote L.        : 8
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 6
+Send TMS         : {"truckload_index":"496c30d1-a917-43e2-87f3-8eba485e5a68","truckload_no":"TM21070085","tm_index":"46a568f0-5ed5-4292-8740-6177274eacc1","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"8","return_tote_max_m":"5","docreturn_max":"6","return_tote_qty_xl":8,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":6}
+Send TMS Result  : False
+Truckload No.    : TM21070116
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 18
+Tote M Max.      : 10
+Doc Max.         : 20
+G Tote L.        : 18
+G Tote M.        : 10
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 20
+Send TMS         : {"truckload_index":"ccbc7fff-96f5-4d8c-b2b3-8efb60e22fad","truckload_no":"TM21070116","tm_index":"c60b8b11-8ca0-4cac-9f86-c790989c1558","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"18","return_tote_max_m":"10","docreturn_max":"20","return_tote_qty_xl":18,"return_tote_qty_m":10,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":20}
+Send TMS Result  : False
+Truckload No.    : TM21070086
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 12
+Tote M Max.      : 5
+Doc Max.         : 11
+G Tote L.        : 12
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 11
+Send TMS         : {"truckload_index":"0e87fc8d-d326-495c-94a2-8f4a96629c16","truckload_no":"TM21070086","tm_index":"752b2768-8e26-4974-8f3f-3bda36858e16","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"12","return_tote_max_m":"5","docreturn_max":"11","return_tote_qty_xl":12,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":11}
+Send TMS Result  : False
+Truckload No.    : TM21070072
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 22
+Tote M Max.      : 4
+Doc Max.         : 13
+G Tote L.        : 22
+G Tote M.        : 4
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 13
+Send TMS         : {"truckload_index":"1f10e8e9-ec32-44c0-859a-8f7d352a983a","truckload_no":"TM21070072","tm_index":"4bdb976d-69aa-44f7-9d62-f4d71b5240ea","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"22","return_tote_max_m":"4","docreturn_max":"13","return_tote_qty_xl":22,"return_tote_qty_m":4,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":13}
+Send TMS Result  : False
+Truckload No.    : TM21070080
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 15
+Tote M Max.      : 3
+Doc Max.         : 10
+G Tote L.        : 15
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 10
+Send TMS         : {"truckload_index":"5b4e31f6-e4d2-479c-be7b-90f255cc0d55","truckload_no":"TM21070080","tm_index":"a2069217-73b2-4e7b-ae19-02759099ad39","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"15","return_tote_max_m":"3","docreturn_max":"10","return_tote_qty_xl":15,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":10}
+Send TMS Result  : False
+Truckload No.    : TM21070092
+Return Date.     : 7/10/2021 12:00:00 AM
+Tote L Max.      : 11
+Tote M Max.      : 3
+Doc Max.         : 8
+G Tote L.        : 11
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 8
+Send TMS         : {"truckload_index":"2ae7bed2-36c0-4969-8e1f-93025a7e47f6","truckload_no":"TM21070092","tm_index":"0f7438e4-7e07-46fc-b085-16edca131854","truckload_return_date":"2021-07-10T00:00:00","return_tote_max_xl":"11","return_tote_max_m":"3","docreturn_max":"8","return_tote_qty_xl":11,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":8}
+Send TMS Result  : False
+Truckload No.    : TM21070122
+Return Date.     : 7/10/2021 12:00:00 AM
+Tote L Max.      : 16
+Tote M Max.      : 6
+Doc Max.         : 19
+G Tote L.        : 16
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 19
+Send TMS         : {"truckload_index":"3f06dfd2-7999-4d60-b0bb-94ccaede59ba","truckload_no":"TM21070122","tm_index":"b0573e09-3490-493c-9a67-02b0693388df","truckload_return_date":"2021-07-10T00:00:00","return_tote_max_xl":"16","return_tote_max_m":"6","docreturn_max":"19","return_tote_qty_xl":16,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":19}
+Send TMS Result  : False
+Truckload No.    : TM21070094
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 7
+Doc Max.         : 12
+G Tote L.        : 13
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 12
+Send TMS         : {"truckload_index":"4facbd33-9fa8-4f06-90d4-96754d6cb0ed","truckload_no":"TM21070094","tm_index":"80838a22-28a6-40b8-ba9d-3c70b5ccf442","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"7","docreturn_max":"12","return_tote_qty_xl":13,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":12}
+Send TMS Result  : False
+Truckload No.    : TM21070076
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 9
+Tote M Max.      : 5
+Doc Max.         : 10
+G Tote L.        : 9
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 10
+Send TMS         : {"truckload_index":"82bac5c1-a586-4a22-b0f8-96e43939eb59","truckload_no":"TM21070076","tm_index":"52257489-205f-4dc8-bfc5-b4dec2bdac9e","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"9","return_tote_max_m":"5","docreturn_max":"10","return_tote_qty_xl":9,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":10}
+Send TMS Result  : False
+Truckload No.    : TM21070045
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 20
+Tote M Max.      : 7
+Doc Max.         : 20
+G Tote L.        : 20
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 20
+Send TMS         : {"truckload_index":"bc57198f-876d-4ee8-babe-98c1e57515ea","truckload_no":"TM21070045","tm_index":"fc0bdc49-d2b8-4b22-8472-3ef5737ae477","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"20","return_tote_max_m":"7","docreturn_max":"20","return_tote_qty_xl":20,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":20}
+Send TMS Result  : False
+Truckload No.    : TM21070026
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 3
+Tote M Max.      : 3
+Doc Max.         : 4
+G Tote L.        : 3
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 4
+Send TMS         : {"truckload_index":"105e56f2-a8a2-483e-8ebb-9936b3e43d1e","truckload_no":"TM21070026","tm_index":"b97a9217-d3dd-4112-b3aa-f27683c6b255","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"3","return_tote_max_m":"3","docreturn_max":"4","return_tote_qty_xl":3,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":4}
+Send TMS Result  : False
+Truckload No.    : TM21070089
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 4
+Doc Max.         : 11
+G Tote L.        : 13
+G Tote M.        : 4
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 11
+Send TMS         : {"truckload_index":"2551a353-1005-4e08-8a26-99e2edfaf0cc","truckload_no":"TM21070089","tm_index":"2c24dd8d-f21e-49db-a938-84efc27951bb","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"4","docreturn_max":"11","return_tote_qty_xl":13,"return_tote_qty_m":4,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":11}
+Send TMS Result  : False
+Truckload No.    : TM21070069
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 8
+Tote M Max.      : 3
+Doc Max.         : 7
+G Tote L.        : 8
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 7
+Send TMS         : {"truckload_index":"bd61e155-db53-4d6c-ac59-9c44f69fe7c9","truckload_no":"TM21070069","tm_index":"1236361d-6e0a-4948-b563-8ab616658951","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"8","return_tote_max_m":"3","docreturn_max":"7","return_tote_qty_xl":8,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":7}
+Send TMS Result  : False
+Truckload No.    : TM21070055
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 9
+Tote M Max.      : 0
+Doc Max.         : 7
+G Tote L.        : 9
+G Tote M.        : 0
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 7
+Send TMS         : {"truckload_index":"3b59deec-08b5-401c-9165-9e76f2df73a7","truckload_no":"TM21070055","tm_index":"a2a0cc68-bdc5-40a1-8902-c90ceec145f2","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"9","return_tote_max_m":"0","docreturn_max":"7","return_tote_qty_xl":9,"return_tote_qty_m":0,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":7}
+Send TMS Result  : False
+Truckload No.    : TM21070049
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 12
+Tote M Max.      : 2
+Doc Max.         : 7
+G Tote L.        : 12
+G Tote M.        : 2
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 7
+Send TMS         : {"truckload_index":"8082f563-9a63-4b81-aac2-ab38a5fd077a","truckload_no":"TM21070049","tm_index":"d37760e3-7878-47db-ae02-ced62affacb3","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"12","return_tote_max_m":"2","docreturn_max":"7","return_tote_qty_xl":12,"return_tote_qty_m":2,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":7}
+Send TMS Result  : False
+Truckload No.    : TM21070052
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 19
+Tote M Max.      : 1
+Doc Max.         : 6
+G Tote L.        : 19
+G Tote M.        : 1
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 6
+Send TMS         : {"truckload_index":"42a7fa2c-de3b-40f1-8b04-ab93d01f13b5","truckload_no":"TM21070052","tm_index":"aa335f60-6554-41a7-86c3-62c693923f21","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"19","return_tote_max_m":"1","docreturn_max":"6","return_tote_qty_xl":19,"return_tote_qty_m":1,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":6}
+Send TMS Result  : False
+Truckload No.    : TM21070054
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 12
+Tote M Max.      : 0
+Doc Max.         : 2
+G Tote L.        : 12
+G Tote M.        : 0
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 2
+Send TMS         : {"truckload_index":"b2544a0c-f999-435c-8b7e-aba5f15f794b","truckload_no":"TM21070054","tm_index":"6ed30615-f4fb-4038-b378-22470a0199d5","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"12","return_tote_max_m":"0","docreturn_max":"2","return_tote_qty_xl":12,"return_tote_qty_m":0,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":2}
+Send TMS Result  : False
+Truckload No.    : TM21070117
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 25
+Tote M Max.      : 3
+Doc Max.         : 15
+G Tote L.        : 25
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 15
+Send TMS         : {"truckload_index":"23e5f233-3978-4262-a0cd-abf5a4c20b9f","truckload_no":"TM21070117","tm_index":"d3770ed4-f90c-4c94-b431-de7e45a5aafb","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"25","return_tote_max_m":"3","docreturn_max":"15","return_tote_qty_xl":25,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":15}
+Send TMS Result  : False
+Truckload No.    : TM21070109
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 15
+Tote M Max.      : 6
+Doc Max.         : 19
+G Tote L.        : 15
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 19
+Send TMS         : {"truckload_index":"3aaf536e-ba13-4853-8dd4-ac7ae5878a68","truckload_no":"TM21070109","tm_index":"041fe699-ce55-4719-ac23-9daadf655751","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"15","return_tote_max_m":"6","docreturn_max":"19","return_tote_qty_xl":15,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":19}
+Send TMS Result  : False
+Truckload No.    : TM21070010
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 17
+Tote M Max.      : 1
+Doc Max.         : 11
+G Tote L.        : 17
+G Tote M.        : 1
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 11
+Send TMS         : {"truckload_index":"222a0703-1e97-489e-9964-b04e7eb03d37","truckload_no":"TM21070010","tm_index":"769ab95d-063b-4d52-9f33-168cc9f9c8ef","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"17","return_tote_max_m":"1","docreturn_max":"11","return_tote_qty_xl":17,"return_tote_qty_m":1,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":11}
+Send TMS Result  : False
+Truckload No.    : TM21070047
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 12
+Tote M Max.      : 7
+Doc Max.         : 14
+G Tote L.        : 12
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 14
+Send TMS         : {"truckload_index":"cee3b0c6-86c4-45df-9e87-bb0c39d0a400","truckload_no":"TM21070047","tm_index":"4b142084-c5d5-4733-a1a2-21b617588234","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"12","return_tote_max_m":"7","docreturn_max":"14","return_tote_qty_xl":12,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":14}
+Send TMS Result  : False
+Truckload No.    : TM21070118
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 21
+Tote M Max.      : 10
+Doc Max.         : 22
+G Tote L.        : 21
+G Tote M.        : 10
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 22
+Send TMS         : {"truckload_index":"6334ca7b-8941-4a09-8f19-bcafe8645ccb","truckload_no":"TM21070118","tm_index":"a60cea40-b0e2-49d6-bf27-ccdda9a33239","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"21","return_tote_max_m":"10","docreturn_max":"22","return_tote_qty_xl":21,"return_tote_qty_m":10,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":22}
+Send TMS Result  : False
+Truckload No.    : TM21070032
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 12
+Tote M Max.      : 10
+Doc Max.         : 23
+G Tote L.        : 12
+G Tote M.        : 10
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 23
+Send TMS         : {"truckload_index":"8cb26518-eee9-447a-87fc-bd0ff8890749","truckload_no":"TM21070032","tm_index":"5bb01df8-c43d-4ef0-9afd-95853e12cd92","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"12","return_tote_max_m":"10","docreturn_max":"23","return_tote_qty_xl":12,"return_tote_qty_m":10,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":23}
+Send TMS Result  : False
+Truckload No.    : TM21070022
+Return Date.     : 7/6/2021 12:00:00 AM
+Tote L Max.      : 16
+Tote M Max.      : 7
+Doc Max.         : 15
+G Tote L.        : 16
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 15
+Send TMS         : {"truckload_index":"5d92700c-2e62-4c65-8721-bfdc05874056","truckload_no":"TM21070022","tm_index":"1daf4886-e3a4-4a17-98d2-d903e2915558","truckload_return_date":"2021-07-06T00:00:00","return_tote_max_xl":"16","return_tote_max_m":"7","docreturn_max":"15","return_tote_qty_xl":16,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":15}
+Send TMS Result  : False
+Truckload No.    : TM21070120
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 17
+Tote M Max.      : 5
+Doc Max.         : 19
+G Tote L.        : 17
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 19
+Send TMS         : {"truckload_index":"8fe5c892-a864-4dce-9366-c8271be16c3d","truckload_no":"TM21070120","tm_index":"37062b66-67ae-471a-9e15-b31a88fedc0f","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"17","return_tote_max_m":"5","docreturn_max":"19","return_tote_qty_xl":17,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":19}
+Start Task       : 2021-08-03-1050
+Select Truckload : 120
+Truckload No.    : TM21070031
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 14
+Tote M Max.      : 8
+Doc Max.         : 19
+G Tote L.        : 14
+G Tote M.        : 8
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 19
+Send TMS         : {"truckload_index":"6bf5dcb5-b01b-42b8-8cf2-00e5907dd00f","truckload_no":"TM21070031","tm_index":"b01723dd-108d-4964-b851-a50bf686c4dd","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"14","return_tote_max_m":"8","docreturn_max":"19","return_tote_qty_xl":14,"return_tote_qty_m":8,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":19}
+Send TMS Result  : False
+Truckload No.    : TM21070075
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 6
+Doc Max.         : 16
+G Tote L.        : 13
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 16
+Send TMS         : {"truckload_index":"9b2c704b-d4c1-4a52-aea3-03db52790a0a","truckload_no":"TM21070075","tm_index":"dabe9802-408e-4fdb-a0fa-a1eb7221c871","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"6","docreturn_max":"16","return_tote_qty_xl":13,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":16}
+Send TMS Result  : False
+Truckload No.    : TM21070100
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 15
+Tote M Max.      : 7
+Doc Max.         : 18
+G Tote L.        : 15
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 18
+Send TMS         : {"truckload_index":"cc36f742-7244-4c26-8e17-044219146760","truckload_no":"TM21070100","tm_index":"dd257a3b-3860-4768-96ae-611ea83df021","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"15","return_tote_max_m":"7","docreturn_max":"18","return_tote_qty_xl":15,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":18}
+Send TMS Result  : False
+Truckload No.    : TM21070039
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 6
+Doc Max.         : 10
+G Tote L.        : 13
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 10
+Send TMS         : {"truckload_index":"4d8a5657-d7d5-46fa-8491-04dd940aaafd","truckload_no":"TM21070039","tm_index":"d0496fcb-7592-4116-b80f-cf50c282906c","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"6","docreturn_max":"10","return_tote_qty_xl":13,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":10}
+Send TMS Result  : False
+Truckload No.    : TM21070083
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 3
+Doc Max.         : 8
+G Tote L.        : 13
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 8
+Send TMS         : {"truckload_index":"17813d26-b2ca-441b-93b8-09eda99112db","truckload_no":"TM21070083","tm_index":"ca54f504-04d1-44bf-a433-eca1a43ed429","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"3","docreturn_max":"8","return_tote_qty_xl":13,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":8}
+Send TMS Result  : False
+Truckload No.    : TM21070065
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 10
+Tote M Max.      : 3
+Doc Max.         : 12
+G Tote L.        : 10
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 12
+Send TMS         : {"truckload_index":"fa50acb3-340e-4b1a-86e2-0bb132f6830c","truckload_no":"TM21070065","tm_index":"23429604-b8f2-44a5-a933-b37630bc6050","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"10","return_tote_max_m":"3","docreturn_max":"12","return_tote_qty_xl":10,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":12}
+Send TMS Result  : False
+Truckload No.    : TM21070007
+Return Date.     : 7/3/2021 12:00:00 AM
+Tote L Max.      : 14
+Tote M Max.      : 5
+Doc Max.         : 14
+G Tote L.        : 14
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 14
+Send TMS         : {"truckload_index":"64ef34f9-49e9-4556-8c20-0f9cec8c5dd3","truckload_no":"TM21070007","tm_index":"1192f2aa-d16b-4636-9bb0-c3b5f445d711","truckload_return_date":"2021-07-03T00:00:00","return_tote_max_xl":"14","return_tote_max_m":"5","docreturn_max":"14","return_tote_qty_xl":14,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":14}
+Send TMS Result  : False
+Truckload No.    : TM21070057
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 20
+Tote M Max.      : 1
+Doc Max.         : 5
+G Tote L.        : 20
+G Tote M.        : 1
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 5
+Send TMS         : {"truckload_index":"5e26093c-4da6-4ae0-9116-14a66d80d1de","truckload_no":"TM21070057","tm_index":"ee7a6ee4-4520-467a-b578-28a6ea5a0e14","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"20","return_tote_max_m":"1","docreturn_max":"5","return_tote_qty_xl":20,"return_tote_qty_m":1,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":5}
+Send TMS Result  : False
+Truckload No.    : TM21070035
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 20
+Tote M Max.      : 11
+Doc Max.         : 24
+G Tote L.        : 20
+G Tote M.        : 11
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 24
+Send TMS         : {"truckload_index":"cd186c25-9c96-49c4-b864-1614a0893bca","truckload_no":"TM21070035","tm_index":"c5637af4-22b8-4cf3-9880-2cf61a2c6c40","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"20","return_tote_max_m":"11","docreturn_max":"24","return_tote_qty_xl":20,"return_tote_qty_m":11,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":24}
+Send TMS Result  : False
+Truckload No.    : TM21070124
+Return Date.     : 7/10/2021 12:00:00 AM
+Tote L Max.      : 10
+Tote M Max.      : 12
+Doc Max.         : 24
+G Tote L.        : 10
+G Tote M.        : 12
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 24
+Send TMS         : {"truckload_index":"e33205e9-874f-4c34-9737-184734225853","truckload_no":"TM21070124","tm_index":"b7c4f9ea-1339-4867-b17d-295b49654a92","truckload_return_date":"2021-07-10T00:00:00","return_tote_max_xl":"10","return_tote_max_m":"12","docreturn_max":"24","return_tote_qty_xl":10,"return_tote_qty_m":12,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":24}
+Send TMS Result  : False
+Truckload No.    : TM21070006
+Return Date.     : 7/3/2021 12:00:00 AM
+Tote L Max.      : 12
+Tote M Max.      : 5
+Doc Max.         : 11
+G Tote L.        : 12
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 11
+Send TMS         : {"truckload_index":"a565093a-8895-4ae0-b950-1b0f9bc25de2","truckload_no":"TM21070006","tm_index":"22f1f107-81dd-4106-9c04-2cae784f74ef","truckload_return_date":"2021-07-03T00:00:00","return_tote_max_xl":"12","return_tote_max_m":"5","docreturn_max":"11","return_tote_qty_xl":12,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":11}
+Send TMS Result  : False
+Truckload No.    : TM21070084
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 4
+Tote M Max.      : 9
+Doc Max.         : 14
+G Tote L.        : 4
+G Tote M.        : 9
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 14
+Send TMS         : {"truckload_index":"56fd3d8d-4592-4e40-bd5b-1b4587160ab9","truckload_no":"TM21070084","tm_index":"1ccf306b-71b7-4ed1-94a3-6ef21c590537","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"4","return_tote_max_m":"9","docreturn_max":"14","return_tote_qty_xl":4,"return_tote_qty_m":9,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":14}
+Send TMS Result  : False
+Truckload No.    : TM21070040
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 16
+Tote M Max.      : 4
+Doc Max.         : 12
+G Tote L.        : 16
+G Tote M.        : 4
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 12
+Send TMS         : {"truckload_index":"b718d06c-4395-4ea9-9307-1b611a2ac5eb","truckload_no":"TM21070040","tm_index":"d725546b-b196-4f16-bf93-327f00cdf1bd","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"16","return_tote_max_m":"4","docreturn_max":"12","return_tote_qty_xl":16,"return_tote_qty_m":4,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":12}
+Send TMS Result  : False
+Truckload No.    : TM21070058
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 14
+Tote M Max.      : 5
+Doc Max.         : 11
+G Tote L.        : 14
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 11
+Send TMS         : {"truckload_index":"fc612c04-3c9c-4099-ac88-1d50a2aca19b","truckload_no":"TM21070058","tm_index":"bcae4b0d-33ed-4029-8ad3-e3d4b1fe4200","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"14","return_tote_max_m":"5","docreturn_max":"11","return_tote_qty_xl":14,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":11}
+Send TMS Result  : False
+Truckload No.    : TM21070004
+Return Date.     : 7/3/2021 12:00:00 AM
+Tote L Max.      : 7
+Tote M Max.      : 6
+Doc Max.         : 8
+G Tote L.        : 7
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 8
+Send TMS         : {"truckload_index":"4752725e-27b8-4750-91a1-1f01941bb2ec","truckload_no":"TM21070004","tm_index":"9cf0226d-7c21-4f7c-9897-4271fa004b24","truckload_return_date":"2021-07-03T00:00:00","return_tote_max_xl":"7","return_tote_max_m":"6","docreturn_max":"8","return_tote_qty_xl":7,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":8}
+Send TMS Result  : False
+Truckload No.    : TM21070002
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 15
+Tote M Max.      : 3
+Doc Max.         : 10
+G Tote L.        : 15
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 10
+Send TMS         : {"truckload_index":"6076206d-1fc5-44f2-a51e-20bb3b4714ff","truckload_no":"TM21070002","tm_index":"c7621ad9-9b4a-48c0-9953-73531160845d","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"15","return_tote_max_m":"3","docreturn_max":"10","return_tote_qty_xl":15,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":10}
+Send TMS Result  : False
+Truckload No.    : TM21070048
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 10
+Tote M Max.      : 6
+Doc Max.         : 12
+G Tote L.        : 10
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 12
+Send TMS         : {"truckload_index":"b99d66e1-2eef-4277-ab81-20c1b9f748ef","truckload_no":"TM21070048","tm_index":"510d884a-801b-424f-bbf7-18ecdfb9f04b","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"10","return_tote_max_m":"6","docreturn_max":"12","return_tote_qty_xl":10,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":12}
+Send TMS Result  : False
+Truckload No.    : TM21070012
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 15
+Tote M Max.      : 9
+Doc Max.         : 16
+G Tote L.        : 15
+G Tote M.        : 9
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 16
+Send TMS         : {"truckload_index":"cd55dc8a-a10f-4d75-9e3d-255e4887ed1b","truckload_no":"TM21070012","tm_index":"5064e256-a793-43db-a51d-d1caf6d82a8d","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"15","return_tote_max_m":"9","docreturn_max":"16","return_tote_qty_xl":15,"return_tote_qty_m":9,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":16}
+Send TMS Result  : False
+Truckload No.    : TM21070009
+Return Date.     : 7/3/2021 12:00:00 AM
+Tote L Max.      : 19
+Tote M Max.      : 6
+Doc Max.         : 19
+G Tote L.        : 19
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 19
+Send TMS         : {"truckload_index":"5d9af438-2b2f-44bc-bf4d-287c29bde0e0","truckload_no":"TM21070009","tm_index":"fc33eb7f-5374-4dfc-907b-c2da7a7bfd50","truckload_return_date":"2021-07-03T00:00:00","return_tote_max_xl":"19","return_tote_max_m":"6","docreturn_max":"19","return_tote_qty_xl":19,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":19}
+Send TMS Result  : False
+Truckload No.    : TM21070024
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 0
+Tote M Max.      : 0
+Doc Max.         : 2
+G Tote L.        : 0
+G Tote M.        : 0
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 2
+Send TMS         : {"truckload_index":"cbde143b-fcd1-4b41-9080-2ab39c6f2e8e","truckload_no":"TM21070024","tm_index":"f0c7b648-a1cb-4144-bf64-3765c515b412","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"0","return_tote_max_m":"0","docreturn_max":"2","return_tote_qty_xl":0,"return_tote_qty_m":0,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":2}
+Send TMS Result  : False
+Truckload No.    : TM21070088
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 8
+Tote M Max.      : 3
+Doc Max.         : 7
+G Tote L.        : 8
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 7
+Send TMS         : {"truckload_index":"c3f348b1-51c4-43b6-8b9b-2c8105142e25","truckload_no":"TM21070088","tm_index":"bec10e31-8a15-4da5-b941-9d800907f215","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"8","return_tote_max_m":"3","docreturn_max":"7","return_tote_qty_xl":8,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":7}
+Send TMS Result  : False
+Truckload No.    : TM21070099
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 7
+Doc Max.         : 12
+G Tote L.        : 13
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 12
+Send TMS         : {"truckload_index":"ab2785a7-f1ec-427f-81b5-2cd213303754","truckload_no":"TM21070099","tm_index":"d78c6cf3-9de7-49c7-aac8-1b5433347d54","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"7","docreturn_max":"12","return_tote_qty_xl":13,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":12}
+Send TMS Result  : False
+Truckload No.    : TM21070016
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 10
+Tote M Max.      : 2
+Doc Max.         : 6
+G Tote L.        : 10
+G Tote M.        : 2
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 6
+Send TMS         : {"truckload_index":"8888cd2d-9719-4173-b336-2cd7a83b7a51","truckload_no":"TM21070016","tm_index":"a7c8631b-f761-4020-b9b6-4bfdf1b425c9","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"10","return_tote_max_m":"2","docreturn_max":"6","return_tote_qty_xl":10,"return_tote_qty_m":2,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":6}
+Send TMS Result  : False
+Truckload No.    : TM21070104
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 0
+Tote M Max.      : 0
+Doc Max.         : 2
+G Tote L.        : 0
+G Tote M.        : 0
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 2
+Send TMS         : {"truckload_index":"ef69b864-e3a2-413f-b957-2f2084c955a1","truckload_no":"TM21070104","tm_index":"d699f15d-c860-4ec8-ba7e-53015e8b78b2","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"0","return_tote_max_m":"0","docreturn_max":"2","return_tote_qty_xl":0,"return_tote_qty_m":0,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":2}
+Send TMS Result  : False
+Truckload No.    : TM21070114
+Return Date.     : 7/14/2021 12:00:00 AM
+Tote L Max.      : 20
+Tote M Max.      : 5
+Doc Max.         : 22
+G Tote L.        : 20
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 22
+Send TMS         : {"truckload_index":"1baea22c-bb40-43d0-82de-308511834196","truckload_no":"TM21070114","tm_index":"e156a5bf-60f7-41c2-be4f-61b2352ad713","truckload_return_date":"2021-07-14T00:00:00","return_tote_max_xl":"20","return_tote_max_m":"5","docreturn_max":"22","return_tote_qty_xl":20,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":22}
+Send TMS Result  : False
+Truckload No.    : TM21070053
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 6
+Tote M Max.      : 2
+Doc Max.         : 3
+G Tote L.        : 6
+G Tote M.        : 2
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 3
+Send TMS         : {"truckload_index":"105e982f-6477-4afc-be74-30c8cf324881","truckload_no":"TM21070053","tm_index":"37f526b6-9684-4d3b-ad58-42243e720e52","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"6","return_tote_max_m":"2","docreturn_max":"3","return_tote_qty_xl":6,"return_tote_qty_m":2,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":3}
+Send TMS Result  : False
+Truckload No.    : TM21070110
+Return Date.     : 7/14/2021 12:00:00 AM
+Tote L Max.      : 17
+Tote M Max.      : 9
+Doc Max.         : 21
+G Tote L.        : 17
+G Tote M.        : 9
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 21
+Send TMS         : {"truckload_index":"e96925a8-7b95-4b83-b3e9-30d1db484e59","truckload_no":"TM21070110","tm_index":"d64a8228-ec37-407c-89d1-fc992b64aa48","truckload_return_date":"2021-07-14T00:00:00","return_tote_max_xl":"17","return_tote_max_m":"9","docreturn_max":"21","return_tote_qty_xl":17,"return_tote_qty_m":9,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":21}
+Send TMS Result  : False
+Truckload No.    : TM21070003
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 0
+Doc Max.         : 5
+G Tote L.        : 13
+G Tote M.        : 0
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 5
+Send TMS         : {"truckload_index":"56046696-d94b-4484-981a-30edc3ef5650","truckload_no":"TM21070003","tm_index":"3ad2bb46-f0e8-4699-a819-803d0a57fcaf","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"0","docreturn_max":"5","return_tote_qty_xl":13,"return_tote_qty_m":0,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":5}
+Send TMS Result  : False
+Truckload No.    : TM21070013
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 9
+Tote M Max.      : 6
+Doc Max.         : 9
+G Tote L.        : 9
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 9
+Send TMS         : {"truckload_index":"431a0c8f-62d5-4833-8c6e-33bbd1ec2238","truckload_no":"TM21070013","tm_index":"0aed6514-a632-47e6-82e3-fdfe314dc945","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"9","return_tote_max_m":"6","docreturn_max":"9","return_tote_qty_xl":9,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":9}
+Send TMS Result  : False
+Truckload No.    : TM21070103
+Return Date.     : 7/10/2021 12:00:00 AM
+Tote L Max.      : 12
+Tote M Max.      : 2
+Doc Max.         : 6
+G Tote L.        : 12
+G Tote M.        : 2
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 6
+Send TMS         : {"truckload_index":"ad81e7df-8d79-4367-beae-35e895c19102","truckload_no":"TM21070103","tm_index":"88f9dae8-2d89-4a11-8300-c1ef2938dbf5","truckload_return_date":"2021-07-10T00:00:00","return_tote_max_xl":"12","return_tote_max_m":"2","docreturn_max":"6","return_tote_qty_xl":12,"return_tote_qty_m":2,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":6}
+Send TMS Result  : False
+Truckload No.    : TM21070034
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 17
+Tote M Max.      : 11
+Doc Max.         : 24
+G Tote L.        : 17
+G Tote M.        : 11
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 24
+Send TMS         : {"truckload_index":"a97de6ee-2766-4533-b446-39e6f6ca1f0b","truckload_no":"TM21070034","tm_index":"757dc769-2f30-4328-ac79-b4bbfe2d918f","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"17","return_tote_max_m":"11","docreturn_max":"24","return_tote_qty_xl":17,"return_tote_qty_m":11,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":24}
+Send TMS Result  : False
+Truckload No.    : TM21070041
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 12
+Tote M Max.      : 7
+Doc Max.         : 10
+G Tote L.        : 12
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 10
+Send TMS         : {"truckload_index":"24ed0780-2b7f-4114-b426-3c6371f137e0","truckload_no":"TM21070041","tm_index":"1d1cabd8-2b57-454f-9774-857cc662fee3","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"12","return_tote_max_m":"7","docreturn_max":"10","return_tote_qty_xl":12,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":10}
+Send TMS Result  : False
+Truckload No.    : TM21070082
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 10
+Tote M Max.      : 4
+Doc Max.         : 11
+G Tote L.        : 10
+G Tote M.        : 4
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 11
+Send TMS         : {"truckload_index":"e3585a1d-5899-4037-8077-3f121879fde4","truckload_no":"TM21070082","tm_index":"e1c2d614-1d29-4187-969e-1355d1adb343","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"10","return_tote_max_m":"4","docreturn_max":"11","return_tote_qty_xl":10,"return_tote_qty_m":4,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":11}
+Send TMS Result  : False
+Truckload No.    : TM21070115
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 30
+Tote M Max.      : 11
+Doc Max.         : 23
+G Tote L.        : 30
+G Tote M.        : 11
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 23
+Send TMS         : {"truckload_index":"70f4791e-e7b9-4aa2-8620-447306be8ce4","truckload_no":"TM21070115","tm_index":"eaac7e6b-3f9c-47da-9b51-07cf1dccc03b","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"30","return_tote_max_m":"11","docreturn_max":"23","return_tote_qty_xl":30,"return_tote_qty_m":11,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":23}
+Send TMS Result  : False
+Truckload No.    : TM21070014
+Return Date.     : 7/3/2021 12:00:00 AM
+Tote L Max.      : 6
+Tote M Max.      : 0
+Doc Max.         : 2
+G Tote L.        : 6
+G Tote M.        : 0
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 2
+Send TMS         : {"truckload_index":"595f0ff3-b01f-4da4-adfa-47518b522330","truckload_no":"TM21070014","tm_index":"4768d0eb-3950-4cd0-ab70-11056573dc33","truckload_return_date":"2021-07-03T00:00:00","return_tote_max_xl":"6","return_tote_max_m":"0","docreturn_max":"2","return_tote_qty_xl":6,"return_tote_qty_m":0,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":2}
+Send TMS Result  : False
+Truckload No.    : TM21070074
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 19
+Tote M Max.      : 6
+Doc Max.         : 16
+G Tote L.        : 19
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 16
+Send TMS         : {"truckload_index":"06b18627-dbda-4c14-95a5-499fa7f3c50e","truckload_no":"TM21070074","tm_index":"56b5b2f8-a5e5-4ed0-9ff5-7ecb22d1e104","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"19","return_tote_max_m":"6","docreturn_max":"16","return_tote_qty_xl":19,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":16}
+Send TMS Result  : False
+Truckload No.    : TM21070121
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 10
+Tote M Max.      : 6
+Doc Max.         : 15
+G Tote L.        : 10
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 15
+Send TMS         : {"truckload_index":"bffa5f59-2c2e-4f87-9bad-4c6a5bc5ca00","truckload_no":"TM21070121","tm_index":"9790b7f2-4782-4548-acd6-c3278f5f3ff0","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"10","return_tote_max_m":"6","docreturn_max":"15","return_tote_qty_xl":10,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":15}
+Send TMS Result  : False
+Truckload No.    : TM21070112
+Return Date.     : 7/14/2021 12:00:00 AM
+Tote L Max.      : 8
+Tote M Max.      : 5
+Doc Max.         : 13
+G Tote L.        : 8
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 13
+Send TMS         : {"truckload_index":"c856af46-82c3-4182-a3b8-4e38471d7209","truckload_no":"TM21070112","tm_index":"6b5c5221-6cd5-48d3-ac37-076fa0890521","truckload_return_date":"2021-07-14T00:00:00","return_tote_max_xl":"8","return_tote_max_m":"5","docreturn_max":"13","return_tote_qty_xl":8,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":13}
+Send TMS Result  : False
+Truckload No.    : TM21070056
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 8
+Tote M Max.      : 1
+Doc Max.         : 2
+G Tote L.        : 8
+G Tote M.        : 1
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 2
+Send TMS         : {"truckload_index":"1e1eec01-ac75-4723-ac61-5189bf198641","truckload_no":"TM21070056","tm_index":"a6daae41-2a26-4258-82f6-c079e38d920a","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"8","return_tote_max_m":"1","docreturn_max":"2","return_tote_qty_xl":8,"return_tote_qty_m":1,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":2}
+Send TMS Result  : False
+Truckload No.    : TM21070098
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 6
+Doc Max.         : 12
+G Tote L.        : 13
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 12
+Send TMS         : {"truckload_index":"aeab0f33-517d-4712-8f88-541abea62476","truckload_no":"TM21070098","tm_index":"77ad07c9-14f5-43fb-9ea7-4e388986e323","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"6","docreturn_max":"12","return_tote_qty_xl":13,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":12}
+Send TMS Result  : False
+Truckload No.    : TM21070106
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 15
+Tote M Max.      : 7
+Doc Max.         : 15
+G Tote L.        : 15
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 15
+Send TMS         : {"truckload_index":"cd2cc367-504c-45b5-b778-5658d83a07c4","truckload_no":"TM21070106","tm_index":"fc2282a4-3c80-4288-8a51-5899e827ac91","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"15","return_tote_max_m":"7","docreturn_max":"15","return_tote_qty_xl":15,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":15}
+Send TMS Result  : False
+Truckload No.    : TM21070038
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 10
+Tote M Max.      : 10
+Doc Max.         : 13
+G Tote L.        : 10
+G Tote M.        : 10
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 13
+Send TMS         : {"truckload_index":"b4255cbd-82f8-4ad1-9c98-5b8e91c3afe5","truckload_no":"TM21070038","tm_index":"6e6a5aaa-3d0b-4532-b2bf-5be413a62881","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"10","return_tote_max_m":"10","docreturn_max":"13","return_tote_qty_xl":10,"return_tote_qty_m":10,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":13}
+Send TMS Result  : False
+Truckload No.    : TM21070030
+Return Date.     : 7/6/2021 12:00:00 AM
+Tote L Max.      : 23
+Tote M Max.      : 6
+Doc Max.         : 23
+G Tote L.        : 23
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 23
+Send TMS         : {"truckload_index":"a173d4ff-7fc3-4cef-bd88-5bf2a32fdb25","truckload_no":"TM21070030","tm_index":"308ee14f-b65c-4fb0-8239-8d99d2245326","truckload_return_date":"2021-07-06T00:00:00","return_tote_max_xl":"23","return_tote_max_m":"6","docreturn_max":"23","return_tote_qty_xl":23,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":23}
+Send TMS Result  : False
+Truckload No.    : TM21070067
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 16
+Tote M Max.      : 2
+Doc Max.         : 13
+G Tote L.        : 16
+G Tote M.        : 2
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 13
+Send TMS         : {"truckload_index":"8a9d298d-d4fb-4f17-8b38-5f2e841ceecf","truckload_no":"TM21070067","tm_index":"63b4a6c7-acef-4f60-97c7-11110df3c6f0","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"16","return_tote_max_m":"2","docreturn_max":"13","return_tote_qty_xl":16,"return_tote_qty_m":2,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":13}
+Send TMS Result  : False
+Truckload No.    : TM21070021
+Return Date.     : 7/6/2021 12:00:00 AM
+Tote L Max.      : 18
+Tote M Max.      : 7
+Doc Max.         : 18
+G Tote L.        : 18
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 18
+Send TMS         : {"truckload_index":"aee73bf7-afbe-403f-851d-610009f30c58","truckload_no":"TM21070021","tm_index":"efe6bfeb-00b7-44cf-9d64-f03344e77808","truckload_return_date":"2021-07-06T00:00:00","return_tote_max_xl":"18","return_tote_max_m":"7","docreturn_max":"18","return_tote_qty_xl":18,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":18}
+Send TMS Result  : False
+Truckload No.    : TM21070066
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 16
+Tote M Max.      : 2
+Doc Max.         : 7
+G Tote L.        : 16
+G Tote M.        : 2
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 7
+Send TMS         : {"truckload_index":"0bcc8591-663c-4795-a070-6553642a102c","truckload_no":"TM21070066","tm_index":"d8b1b6f1-573d-4a2b-941a-3c22112e540a","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"16","return_tote_max_m":"2","docreturn_max":"7","return_tote_qty_xl":16,"return_tote_qty_m":2,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":7}
+Send TMS Result  : False
+Truckload No.    : TM21070111
+Return Date.     : 7/14/2021 12:00:00 AM
+Tote L Max.      : 19
+Tote M Max.      : 8
+Doc Max.         : 21
+G Tote L.        : 19
+G Tote M.        : 8
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 21
+Send TMS         : {"truckload_index":"02acbf44-96f2-45a6-95c0-6575815291e2","truckload_no":"TM21070111","tm_index":"5ef495ab-823f-4d22-ad9e-78bd34ca0c34","truckload_return_date":"2021-07-14T00:00:00","return_tote_max_xl":"19","return_tote_max_m":"8","docreturn_max":"21","return_tote_qty_xl":19,"return_tote_qty_m":8,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":21}
+Send TMS Result  : False
+Truckload No.    : TM21070071
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 21
+Tote M Max.      : 7
+Doc Max.         : 16
+G Tote L.        : 21
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 16
+Send TMS         : {"truckload_index":"9a06a9ed-6c1c-4838-8839-6728401d0bcf","truckload_no":"TM21070071","tm_index":"7fff3ab2-60a0-4676-abd0-04f595e33e63","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"21","return_tote_max_m":"7","docreturn_max":"16","return_tote_qty_xl":21,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":16}
+Send TMS Result  : False
+Truckload No.    : TM21070064
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 8
+Tote M Max.      : 5
+Doc Max.         : 7
+G Tote L.        : 8
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 7
+Send TMS         : {"truckload_index":"0cb49bc4-acca-443c-801e-67ec6fa41757","truckload_no":"TM21070064","tm_index":"de0514d9-d117-49d3-b452-bfb4399cb679","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"8","return_tote_max_m":"5","docreturn_max":"7","return_tote_qty_xl":8,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":7}
+Send TMS Result  : False
+Truckload No.    : TM21070008
+Return Date.     : 7/3/2021 12:00:00 AM
+Tote L Max.      : 12
+Tote M Max.      : 7
+Doc Max.         : 13
+G Tote L.        : 12
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 13
+Send TMS         : {"truckload_index":"2666ba1c-5464-4d20-a3c9-6aa9725872c4","truckload_no":"TM21070008","tm_index":"b3b0c4f6-6052-421c-a0d8-4d2af4075c30","truckload_return_date":"2021-07-03T00:00:00","return_tote_max_xl":"12","return_tote_max_m":"7","docreturn_max":"13","return_tote_qty_xl":12,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":13}
+Send TMS Result  : False
+Truckload No.    : TM21070051
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 8
+Tote M Max.      : 6
+Doc Max.         : 9
+G Tote L.        : 8
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 9
+Send TMS         : {"truckload_index":"1ed9baa6-cedc-4849-8a22-6b717c82895f","truckload_no":"TM21070051","tm_index":"8818db85-6371-40e7-95c5-612f5cf2eb75","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"8","return_tote_max_m":"6","docreturn_max":"9","return_tote_qty_xl":8,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":9}
+Send TMS Result  : False
+Truckload No.    : TM21070001
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 18
+Tote M Max.      : 4
+Doc Max.         : 16
+G Tote L.        : 18
+G Tote M.        : 4
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 16
+Send TMS         : {"truckload_index":"609b06dc-f705-4360-b49d-6c47229318d2","truckload_no":"TM21070001","tm_index":"ff2d3a83-7ebc-463d-87d8-26b14709a5b2","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"18","return_tote_max_m":"4","docreturn_max":"16","return_tote_qty_xl":18,"return_tote_qty_m":4,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":16}
+Send TMS Result  : False
+Truckload No.    : TM21070037
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 22
+Tote M Max.      : 13
+Doc Max.         : 25
+G Tote L.        : 22
+G Tote M.        : 13
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 25
+Send TMS         : {"truckload_index":"89de498f-2f67-43ce-bc81-6df97c11b769","truckload_no":"TM21070037","tm_index":"5474bce9-b9bf-449c-859f-3f76cd62c8d9","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"22","return_tote_max_m":"13","docreturn_max":"25","return_tote_qty_xl":22,"return_tote_qty_m":13,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":25}
+Send TMS Result  : False
+Truckload No.    : TM21070123
+Return Date.     : 7/10/2021 12:00:00 AM
+Tote L Max.      : 15
+Tote M Max.      : 8
+Doc Max.         : 13
+G Tote L.        : 15
+G Tote M.        : 8
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 13
+Send TMS         : {"truckload_index":"05bc31dd-65ce-48cf-85e8-7180808c3102","truckload_no":"TM21070123","tm_index":"c29ac9e6-6cb7-41c2-b73b-0834e985fd82","truckload_return_date":"2021-07-10T00:00:00","return_tote_max_xl":"15","return_tote_max_m":"8","docreturn_max":"13","return_tote_qty_xl":15,"return_tote_qty_m":8,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":13}
+Send TMS Result  : False
+Truckload No.    : TM21070078
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 11
+Tote M Max.      : 5
+Doc Max.         : 9
+G Tote L.        : 11
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 9
+Send TMS         : {"truckload_index":"472efa85-9941-420f-b7b1-7ed35ae42442","truckload_no":"TM21070078","tm_index":"f2ba2347-c407-4119-b5e0-cc7251adf2c9","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"11","return_tote_max_m":"5","docreturn_max":"9","return_tote_qty_xl":11,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":9}
+Send TMS Result  : False
+Truckload No.    : TM21070068
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 6
+Tote M Max.      : 3
+Doc Max.         : 4
+G Tote L.        : 6
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 4
+Send TMS         : {"truckload_index":"702a08f8-b626-4e30-8880-7f3ae3e9448a","truckload_no":"TM21070068","tm_index":"62b99f37-87e2-42d0-b367-ae2dd3d33f21","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"6","return_tote_max_m":"3","docreturn_max":"4","return_tote_qty_xl":6,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":4}
+Send TMS Result  : False
+Truckload No.    : TM21070036
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 6
+Tote M Max.      : 3
+Doc Max.         : 8
+G Tote L.        : 6
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 8
+Send TMS         : {"truckload_index":"63342f9f-c798-4a51-8efc-8189c5ede098","truckload_no":"TM21070036","tm_index":"f8c94d49-5948-40d9-9114-5088c2635a2e","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"6","return_tote_max_m":"3","docreturn_max":"8","return_tote_qty_xl":6,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":8}
+Send TMS Result  : False
+Truckload No.    : TM21070015
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 16
+Tote M Max.      : 7
+Doc Max.         : 18
+G Tote L.        : 16
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 18
+Send TMS         : {"truckload_index":"ea560bd5-eaa0-43e6-8394-81a8696194d1","truckload_no":"TM21070015","tm_index":"2296a6ce-05fa-40a8-9a75-ddb7e19977dd","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"16","return_tote_max_m":"7","docreturn_max":"18","return_tote_qty_xl":16,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":18}
+Send TMS Result  : False
+Truckload No.    : TM21070033
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 18
+Tote M Max.      : 10
+Doc Max.         : 20
+G Tote L.        : 18
+G Tote M.        : 10
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 20
+Send TMS         : {"truckload_index":"47a7aad9-853a-4f20-ae98-81c9e8a41df7","truckload_no":"TM21070033","tm_index":"758aa2fb-cef3-4415-8269-4553e51374d2","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"18","return_tote_max_m":"10","docreturn_max":"20","return_tote_qty_xl":18,"return_tote_qty_m":10,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":20}
+Send TMS Result  : False
+Truckload No.    : TM21070043
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 17
+Tote M Max.      : 5
+Doc Max.         : 19
+G Tote L.        : 17
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 19
+Send TMS         : {"truckload_index":"66fe4820-aa8b-40f0-841b-824007e7b922","truckload_no":"TM21070043","tm_index":"600aae68-9d94-4b8c-a14a-65dea6e196fb","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"17","return_tote_max_m":"5","docreturn_max":"19","return_tote_qty_xl":17,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":19}
+Send TMS Result  : False
+Truckload No.    : TM21070113
+Return Date.     : 7/14/2021 12:00:00 AM
+Tote L Max.      : 16
+Tote M Max.      : 5
+Doc Max.         : 12
+G Tote L.        : 16
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 12
+Send TMS         : {"truckload_index":"2a5cad99-7cc0-4c64-ad95-82a73515eba3","truckload_no":"TM21070113","tm_index":"2fe7191d-c095-4399-bfa5-81c40c121316","truckload_return_date":"2021-07-14T00:00:00","return_tote_max_xl":"16","return_tote_max_m":"5","docreturn_max":"12","return_tote_qty_xl":16,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":12}
+Send TMS Result  : False
+Truckload No.    : TM21070050
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 20
+Tote M Max.      : 2
+Doc Max.         : 4
+G Tote L.        : 20
+G Tote M.        : 2
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 4
+Send TMS         : {"truckload_index":"7cac0825-92f9-432b-94a9-841905d385ec","truckload_no":"TM21070050","tm_index":"49090759-02f7-4096-8127-bab636fd0773","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"20","return_tote_max_m":"2","docreturn_max":"4","return_tote_qty_xl":20,"return_tote_qty_m":2,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":4}
+Send TMS Result  : False
+Truckload No.    : TM21070108
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 6
+Tote M Max.      : 0
+Doc Max.         : 9
+G Tote L.        : 6
+G Tote M.        : 0
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 9
+Send TMS         : {"truckload_index":"db3b3a0f-b37f-4204-9a98-8509db583e31","truckload_no":"TM21070108","tm_index":"7467f336-e344-4388-8f41-12c68070a9ba","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"6","return_tote_max_m":"0","docreturn_max":"9","return_tote_qty_xl":6,"return_tote_qty_m":0,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":9}
+Send TMS Result  : False
+Truckload No.    : TM21070105
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 17
+Tote M Max.      : 4
+Doc Max.         : 13
+G Tote L.        : 17
+G Tote M.        : 4
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 13
+Send TMS         : {"truckload_index":"0c3f191c-bd37-4f6b-a98f-85ef196458b9","truckload_no":"TM21070105","tm_index":"c472d7b4-464e-4b8a-8c82-89cbb0d5c0d1","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"17","return_tote_max_m":"4","docreturn_max":"13","return_tote_qty_xl":17,"return_tote_qty_m":4,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":13}
+Send TMS Result  : False
+Truckload No.    : TM21070062
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 7
+Tote M Max.      : 3
+Doc Max.         : 5
+G Tote L.        : 7
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 5
+Send TMS         : {"truckload_index":"3bb96143-a691-4d98-ba1b-8639b4030950","truckload_no":"TM21070062","tm_index":"cefbf454-5208-4973-ae7c-f7c8e0db4c91","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"7","return_tote_max_m":"3","docreturn_max":"5","return_tote_qty_xl":7,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":5}
+Send TMS Result  : False
+Truckload No.    : TM21070025
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 6
+Doc Max.         : 14
+G Tote L.        : 13
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 14
+Send TMS         : {"truckload_index":"00c3facc-68a0-403b-a79e-879d8e8088c5","truckload_no":"TM21070025","tm_index":"d1778f30-64b9-44ad-bb65-143339c95e0d","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"6","docreturn_max":"14","return_tote_qty_xl":13,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":14}
+Send TMS Result  : False
+Truckload No.    : TM21070061
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 10
+Tote M Max.      : 4
+Doc Max.         : 9
+G Tote L.        : 10
+G Tote M.        : 4
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 9
+Send TMS         : {"truckload_index":"434768f4-6046-43fe-9e8b-880bb64607e6","truckload_no":"TM21070061","tm_index":"5fed575d-e18b-4959-b35d-537446011678","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"10","return_tote_max_m":"4","docreturn_max":"9","return_tote_qty_xl":10,"return_tote_qty_m":4,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":9}
+Send TMS Result  : False
+Truckload No.    : TM21070044
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 6
+Doc Max.         : 14
+G Tote L.        : 13
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 14
+Send TMS         : {"truckload_index":"d4ee5e5b-0f1a-4fa7-a97f-8a900f6149dc","truckload_no":"TM21070044","tm_index":"beefd3c3-365b-49fa-94a5-a4650a84f8fe","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"6","docreturn_max":"14","return_tote_qty_xl":13,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":14}
+Send TMS Result  : False
+Truckload No.    : TM21070070
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 20
+Tote M Max.      : 4
+Doc Max.         : 14
+G Tote L.        : 20
+G Tote M.        : 4
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 14
+Send TMS         : {"truckload_index":"349e9236-b69e-425d-9b42-8b39d00b36bd","truckload_no":"TM21070070","tm_index":"daf196f4-49d5-45af-a793-31ab20768ae7","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"20","return_tote_max_m":"4","docreturn_max":"14","return_tote_qty_xl":20,"return_tote_qty_m":4,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":14}
+Send TMS Result  : False
+Truckload No.    : TM21070063
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 5
+Tote M Max.      : 2
+Doc Max.         : 6
+G Tote L.        : 5
+G Tote M.        : 2
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 6
+Send TMS         : {"truckload_index":"621e8989-6b95-4684-99a5-8b7edb01e275","truckload_no":"TM21070063","tm_index":"2387f6a7-2b7c-42b3-be83-956ee7e89a7a","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"5","return_tote_max_m":"2","docreturn_max":"6","return_tote_qty_xl":5,"return_tote_qty_m":2,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":6}
+Send TMS Result  : False
+Truckload No.    : TM21070085
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 8
+Tote M Max.      : 5
+Doc Max.         : 6
+G Tote L.        : 8
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 6
+Send TMS         : {"truckload_index":"496c30d1-a917-43e2-87f3-8eba485e5a68","truckload_no":"TM21070085","tm_index":"46a568f0-5ed5-4292-8740-6177274eacc1","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"8","return_tote_max_m":"5","docreturn_max":"6","return_tote_qty_xl":8,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":6}
+Send TMS Result  : False
+Truckload No.    : TM21070116
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 18
+Tote M Max.      : 10
+Doc Max.         : 20
+G Tote L.        : 18
+G Tote M.        : 10
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 20
+Send TMS         : {"truckload_index":"ccbc7fff-96f5-4d8c-b2b3-8efb60e22fad","truckload_no":"TM21070116","tm_index":"c60b8b11-8ca0-4cac-9f86-c790989c1558","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"18","return_tote_max_m":"10","docreturn_max":"20","return_tote_qty_xl":18,"return_tote_qty_m":10,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":20}
+Send TMS Result  : False
+Truckload No.    : TM21070086
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 12
+Tote M Max.      : 5
+Doc Max.         : 11
+G Tote L.        : 12
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 11
+Send TMS         : {"truckload_index":"0e87fc8d-d326-495c-94a2-8f4a96629c16","truckload_no":"TM21070086","tm_index":"752b2768-8e26-4974-8f3f-3bda36858e16","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"12","return_tote_max_m":"5","docreturn_max":"11","return_tote_qty_xl":12,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":11}
+Send TMS Result  : False
+Truckload No.    : TM21070072
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 22
+Tote M Max.      : 4
+Doc Max.         : 13
+G Tote L.        : 22
+G Tote M.        : 4
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 13
+Send TMS         : {"truckload_index":"1f10e8e9-ec32-44c0-859a-8f7d352a983a","truckload_no":"TM21070072","tm_index":"4bdb976d-69aa-44f7-9d62-f4d71b5240ea","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"22","return_tote_max_m":"4","docreturn_max":"13","return_tote_qty_xl":22,"return_tote_qty_m":4,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":13}
+Send TMS Result  : False
+Truckload No.    : TM21070080
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 15
+Tote M Max.      : 3
+Doc Max.         : 10
+G Tote L.        : 15
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 10
+Send TMS         : {"truckload_index":"5b4e31f6-e4d2-479c-be7b-90f255cc0d55","truckload_no":"TM21070080","tm_index":"a2069217-73b2-4e7b-ae19-02759099ad39","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"15","return_tote_max_m":"3","docreturn_max":"10","return_tote_qty_xl":15,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":10}
+Send TMS Result  : False
+Truckload No.    : TM21070092
+Return Date.     : 7/10/2021 12:00:00 AM
+Tote L Max.      : 11
+Tote M Max.      : 3
+Doc Max.         : 8
+G Tote L.        : 11
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 8
+Send TMS         : {"truckload_index":"2ae7bed2-36c0-4969-8e1f-93025a7e47f6","truckload_no":"TM21070092","tm_index":"0f7438e4-7e07-46fc-b085-16edca131854","truckload_return_date":"2021-07-10T00:00:00","return_tote_max_xl":"11","return_tote_max_m":"3","docreturn_max":"8","return_tote_qty_xl":11,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":8}
+Send TMS Result  : False
+Truckload No.    : TM21070122
+Return Date.     : 7/10/2021 12:00:00 AM
+Tote L Max.      : 16
+Tote M Max.      : 6
+Doc Max.         : 19
+G Tote L.        : 16
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 19
+Send TMS         : {"truckload_index":"3f06dfd2-7999-4d60-b0bb-94ccaede59ba","truckload_no":"TM21070122","tm_index":"b0573e09-3490-493c-9a67-02b0693388df","truckload_return_date":"2021-07-10T00:00:00","return_tote_max_xl":"16","return_tote_max_m":"6","docreturn_max":"19","return_tote_qty_xl":16,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":19}
+Send TMS Result  : False
+Truckload No.    : TM21070094
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 7
+Doc Max.         : 12
+G Tote L.        : 13
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 12
+Send TMS         : {"truckload_index":"4facbd33-9fa8-4f06-90d4-96754d6cb0ed","truckload_no":"TM21070094","tm_index":"80838a22-28a6-40b8-ba9d-3c70b5ccf442","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"7","docreturn_max":"12","return_tote_qty_xl":13,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":12}
+Send TMS Result  : False
+Truckload No.    : TM21070076
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 9
+Tote M Max.      : 5
+Doc Max.         : 10
+G Tote L.        : 9
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 10
+Send TMS         : {"truckload_index":"82bac5c1-a586-4a22-b0f8-96e43939eb59","truckload_no":"TM21070076","tm_index":"52257489-205f-4dc8-bfc5-b4dec2bdac9e","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"9","return_tote_max_m":"5","docreturn_max":"10","return_tote_qty_xl":9,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":10}
+Send TMS Result  : False
+Truckload No.    : TM21070045
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 20
+Tote M Max.      : 7
+Doc Max.         : 20
+G Tote L.        : 20
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 20
+Send TMS         : {"truckload_index":"bc57198f-876d-4ee8-babe-98c1e57515ea","truckload_no":"TM21070045","tm_index":"fc0bdc49-d2b8-4b22-8472-3ef5737ae477","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"20","return_tote_max_m":"7","docreturn_max":"20","return_tote_qty_xl":20,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":20}
+Send TMS Result  : False
+Truckload No.    : TM21070026
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 3
+Tote M Max.      : 3
+Doc Max.         : 4
+G Tote L.        : 3
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 4
+Send TMS         : {"truckload_index":"105e56f2-a8a2-483e-8ebb-9936b3e43d1e","truckload_no":"TM21070026","tm_index":"b97a9217-d3dd-4112-b3aa-f27683c6b255","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"3","return_tote_max_m":"3","docreturn_max":"4","return_tote_qty_xl":3,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":4}
+Send TMS Result  : False
+Truckload No.    : TM21070089
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 4
+Doc Max.         : 11
+G Tote L.        : 13
+G Tote M.        : 4
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 11
+Send TMS         : {"truckload_index":"2551a353-1005-4e08-8a26-99e2edfaf0cc","truckload_no":"TM21070089","tm_index":"2c24dd8d-f21e-49db-a938-84efc27951bb","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"4","docreturn_max":"11","return_tote_qty_xl":13,"return_tote_qty_m":4,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":11}
+Send TMS Result  : False
+Truckload No.    : TM21070069
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 8
+Tote M Max.      : 3
+Doc Max.         : 7
+G Tote L.        : 8
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 7
+Send TMS         : {"truckload_index":"bd61e155-db53-4d6c-ac59-9c44f69fe7c9","truckload_no":"TM21070069","tm_index":"1236361d-6e0a-4948-b563-8ab616658951","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"8","return_tote_max_m":"3","docreturn_max":"7","return_tote_qty_xl":8,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":7}
+Send TMS Result  : False
+Truckload No.    : TM21070055
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 9
+Tote M Max.      : 0
+Doc Max.         : 7
+G Tote L.        : 9
+G Tote M.        : 0
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 7
+Send TMS         : {"truckload_index":"3b59deec-08b5-401c-9165-9e76f2df73a7","truckload_no":"TM21070055","tm_index":"a2a0cc68-bdc5-40a1-8902-c90ceec145f2","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"9","return_tote_max_m":"0","docreturn_max":"7","return_tote_qty_xl":9,"return_tote_qty_m":0,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":7}
+Send TMS Result  : False
+Truckload No.    : TM21070049
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 12
+Tote M Max.      : 2
+Doc Max.         : 7
+G Tote L.        : 12
+G Tote M.        : 2
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 7
+Send TMS         : {"truckload_index":"8082f563-9a63-4b81-aac2-ab38a5fd077a","truckload_no":"TM21070049","tm_index":"d37760e3-7878-47db-ae02-ced62affacb3","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"12","return_tote_max_m":"2","docreturn_max":"7","return_tote_qty_xl":12,"return_tote_qty_m":2,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":7}
+Send TMS Result  : False
+Truckload No.    : TM21070052
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 19
+Tote M Max.      : 1
+Doc Max.         : 6
+G Tote L.        : 19
+G Tote M.        : 1
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 6
+Send TMS         : {"truckload_index":"42a7fa2c-de3b-40f1-8b04-ab93d01f13b5","truckload_no":"TM21070052","tm_index":"aa335f60-6554-41a7-86c3-62c693923f21","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"19","return_tote_max_m":"1","docreturn_max":"6","return_tote_qty_xl":19,"return_tote_qty_m":1,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":6}
+Send TMS Result  : False
+Truckload No.    : TM21070054
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 12
+Tote M Max.      : 0
+Doc Max.         : 2
+G Tote L.        : 12
+G Tote M.        : 0
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 2
+Send TMS         : {"truckload_index":"b2544a0c-f999-435c-8b7e-aba5f15f794b","truckload_no":"TM21070054","tm_index":"6ed30615-f4fb-4038-b378-22470a0199d5","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"12","return_tote_max_m":"0","docreturn_max":"2","return_tote_qty_xl":12,"return_tote_qty_m":0,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":2}
+Send TMS Result  : False
+Truckload No.    : TM21070117
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 25
+Tote M Max.      : 3
+Doc Max.         : 15
+G Tote L.        : 25
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 15
+Send TMS         : {"truckload_index":"23e5f233-3978-4262-a0cd-abf5a4c20b9f","truckload_no":"TM21070117","tm_index":"d3770ed4-f90c-4c94-b431-de7e45a5aafb","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"25","return_tote_max_m":"3","docreturn_max":"15","return_tote_qty_xl":25,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":15}
+Send TMS Result  : False
+Truckload No.    : TM21070109
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 15
+Tote M Max.      : 6
+Doc Max.         : 19
+G Tote L.        : 15
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 19
+Send TMS         : {"truckload_index":"3aaf536e-ba13-4853-8dd4-ac7ae5878a68","truckload_no":"TM21070109","tm_index":"041fe699-ce55-4719-ac23-9daadf655751","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"15","return_tote_max_m":"6","docreturn_max":"19","return_tote_qty_xl":15,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":19}
+Send TMS Result  : False
+Truckload No.    : TM21070010
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 17
+Tote M Max.      : 1
+Doc Max.         : 11
+G Tote L.        : 17
+G Tote M.        : 1
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 11
+Send TMS         : {"truckload_index":"222a0703-1e97-489e-9964-b04e7eb03d37","truckload_no":"TM21070010","tm_index":"769ab95d-063b-4d52-9f33-168cc9f9c8ef","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"17","return_tote_max_m":"1","docreturn_max":"11","return_tote_qty_xl":17,"return_tote_qty_m":1,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":11}
+Send TMS Result  : False
+Truckload No.    : TM21070047
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 12
+Tote M Max.      : 7
+Doc Max.         : 14
+G Tote L.        : 12
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 14
+Send TMS         : {"truckload_index":"cee3b0c6-86c4-45df-9e87-bb0c39d0a400","truckload_no":"TM21070047","tm_index":"4b142084-c5d5-4733-a1a2-21b617588234","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"12","return_tote_max_m":"7","docreturn_max":"14","return_tote_qty_xl":12,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":14}
+Send TMS Result  : False
+Truckload No.    : TM21070118
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 21
+Tote M Max.      : 10
+Doc Max.         : 22
+G Tote L.        : 21
+G Tote M.        : 10
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 22
+Send TMS         : {"truckload_index":"6334ca7b-8941-4a09-8f19-bcafe8645ccb","truckload_no":"TM21070118","tm_index":"a60cea40-b0e2-49d6-bf27-ccdda9a33239","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"21","return_tote_max_m":"10","docreturn_max":"22","return_tote_qty_xl":21,"return_tote_qty_m":10,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":22}
+Send TMS Result  : False
+Truckload No.    : TM21070032
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 12
+Tote M Max.      : 10
+Doc Max.         : 23
+G Tote L.        : 12
+G Tote M.        : 10
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 23
+Send TMS         : {"truckload_index":"8cb26518-eee9-447a-87fc-bd0ff8890749","truckload_no":"TM21070032","tm_index":"5bb01df8-c43d-4ef0-9afd-95853e12cd92","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"12","return_tote_max_m":"10","docreturn_max":"23","return_tote_qty_xl":12,"return_tote_qty_m":10,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":23}
+Send TMS Result  : False
+Truckload No.    : TM21070022
+Return Date.     : 7/6/2021 12:00:00 AM
+Tote L Max.      : 16
+Tote M Max.      : 7
+Doc Max.         : 15
+G Tote L.        : 16
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 15
+Send TMS         : {"truckload_index":"5d92700c-2e62-4c65-8721-bfdc05874056","truckload_no":"TM21070022","tm_index":"1daf4886-e3a4-4a17-98d2-d903e2915558","truckload_return_date":"2021-07-06T00:00:00","return_tote_max_xl":"16","return_tote_max_m":"7","docreturn_max":"15","return_tote_qty_xl":16,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":15}
+Send TMS Result  : False
+Truckload No.    : TM21070120
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 17
+Tote M Max.      : 5
+Doc Max.         : 19
+G Tote L.        : 17
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 19
+Send TMS         : {"truckload_index":"8fe5c892-a864-4dce-9366-c8271be16c3d","truckload_no":"TM21070120","tm_index":"37062b66-67ae-471a-9e15-b31a88fedc0f","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"17","return_tote_max_m":"5","docreturn_max":"19","return_tote_qty_xl":17,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":19}
+Send TMS Result  : False
+Truckload No.    : TM21070073
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 14
+Tote M Max.      : 4
+Doc Max.         : 10
+G Tote L.        : 14
+G Tote M.        : 4
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 10
+Send TMS         : {"truckload_index":"456133c5-5399-4c56-b61b-c86aeff599d0","truckload_no":"TM21070073","tm_index":"4738a19a-1f9d-4831-8af0-4c424829474c","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"14","return_tote_max_m":"4","docreturn_max":"10","return_tote_qty_xl":14,"return_tote_qty_m":4,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":10}
+Send TMS Result  : False
+Truckload No.    : TM21070060
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 19
+Tote M Max.      : 5
+Doc Max.         : 13
+G Tote L.        : 19
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 13
+Send TMS         : {"truckload_index":"b12404ad-c1dc-497d-a079-c8820f763eff","truckload_no":"TM21070060","tm_index":"3a50325b-9c0a-472b-9a85-3cafb0dffbe8","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"19","return_tote_max_m":"5","docreturn_max":"13","return_tote_qty_xl":19,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":13}
+Send TMS Result  : False
+Truckload No.    : TM21070059
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 15
+Tote M Max.      : 6
+Doc Max.         : 16
+G Tote L.        : 15
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 16
+Send TMS         : {"truckload_index":"ecc567f4-1b29-41ff-9ed4-c8d02e89c8c2","truckload_no":"TM21070059","tm_index":"616e18e4-3f2d-4747-9bf5-465c777d33ec","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"15","return_tote_max_m":"6","docreturn_max":"16","return_tote_qty_xl":15,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":16}
+Send TMS Result  : False
+Truckload No.    : TM21070091
+Return Date.     : 7/10/2021 12:00:00 AM
+Tote L Max.      : 14
+Tote M Max.      : 8
+Doc Max.         : 12
+G Tote L.        : 14
+G Tote M.        : 8
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 12
+Send TMS         : {"truckload_index":"92159efe-420a-47e1-b498-ca0b60d9a2ff","truckload_no":"TM21070091","tm_index":"ffc09385-7cf0-4e7b-bf7e-71df087476c4","truckload_return_date":"2021-07-10T00:00:00","return_tote_max_xl":"14","return_tote_max_m":"8","docreturn_max":"12","return_tote_qty_xl":14,"return_tote_qty_m":8,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":12}
+Send TMS Result  : False
+Truckload No.    : TM21070097
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 8
+Tote M Max.      : 2
+Doc Max.         : 7
+G Tote L.        : 8
+G Tote M.        : 2
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 7
+Send TMS         : {"truckload_index":"46207100-63ff-4256-9bb4-cb3b12e78393","truckload_no":"TM21070097","tm_index":"234fe42e-e8c1-4940-b4c3-d6b6f6c8448a","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"8","return_tote_max_m":"2","docreturn_max":"7","return_tote_qty_xl":8,"return_tote_qty_m":2,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":7}
+Send TMS Result  : False
+Truckload No.    : TM21070042
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 19
+Tote M Max.      : 8
+Doc Max.         : 22
+G Tote L.        : 19
+G Tote M.        : 8
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 22
+Send TMS         : {"truckload_index":"a6dafd05-99e4-4ab8-8bbc-cc22e2b4793a","truckload_no":"TM21070042","tm_index":"419b18f2-2b35-4749-b1e1-06f015f1cb29","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"19","return_tote_max_m":"8","docreturn_max":"22","return_tote_qty_xl":19,"return_tote_qty_m":8,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":22}
+Send TMS Result  : False
+Truckload No.    : TM21070019
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 15
+Tote M Max.      : 5
+Doc Max.         : 14
+G Tote L.        : 15
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 14
+Send TMS         : {"truckload_index":"718d1e6d-1660-44eb-9f7b-cc8847c491bf","truckload_no":"TM21070019","tm_index":"900e30b7-ece2-4562-89d4-85a4618edade","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"15","return_tote_max_m":"5","docreturn_max":"14","return_tote_qty_xl":15,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":14}
+Send TMS Result  : False
+Truckload No.    : TM21070107
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 11
+Tote M Max.      : 4
+Doc Max.         : 14
+G Tote L.        : 11
+G Tote M.        : 4
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 14
+Send TMS         : {"truckload_index":"a5836405-f867-41d4-aeec-cffb0be455f6","truckload_no":"TM21070107","tm_index":"3e6d67bc-0683-40fa-ae8f-090750f12215","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"11","return_tote_max_m":"4","docreturn_max":"14","return_tote_qty_xl":11,"return_tote_qty_m":4,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":14}
+Send TMS Result  : False
+Truckload No.    : TM21070081
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 10
+Tote M Max.      : 3
+Doc Max.         : 6
+G Tote L.        : 10
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 6
+Send TMS         : {"truckload_index":"7077bb31-8727-4252-a5df-d0380f262e87","truckload_no":"TM21070081","tm_index":"74c93470-df37-4c0d-838e-8f9a92c88806","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"10","return_tote_max_m":"3","docreturn_max":"6","return_tote_qty_xl":10,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":6}
+Send TMS Result  : False
+Truckload No.    : TM21070005
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 16
+Tote M Max.      : 5
+Doc Max.         : 13
+G Tote L.        : 16
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 13
+Send TMS         : {"truckload_index":"b1c4e902-371d-4919-8f55-d311b2ee723f","truckload_no":"TM21070005","tm_index":"ab92fb65-16c0-4978-a469-8311487589e7","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"16","return_tote_max_m":"5","docreturn_max":"13","return_tote_qty_xl":16,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":13}
+Send TMS Result  : False
+Truckload No.    : TM21070102
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 16
+Tote M Max.      : 3
+Doc Max.         : 13
+G Tote L.        : 16
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 13
+Send TMS         : {"truckload_index":"84ef5195-52cd-4ddc-9106-d351bc3fab65","truckload_no":"TM21070102","tm_index":"05ecb1d7-d41d-4fef-b95d-7a371eb5f9b6","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"16","return_tote_max_m":"3","docreturn_max":"13","return_tote_qty_xl":16,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":13}
+Send TMS Result  : False
+Truckload No.    : TM21070017
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 17
+Tote M Max.      : 5
+Doc Max.         : 15
+G Tote L.        : 17
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 15
+Send TMS         : {"truckload_index":"9f95cbb8-fff2-41d0-ab14-d4ca0a1bef20","truckload_no":"TM21070017","tm_index":"ecbdbd77-b0ed-4b8d-8e2d-5f278df38ff7","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"17","return_tote_max_m":"5","docreturn_max":"15","return_tote_qty_xl":17,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":15}
+Send TMS Result  : False
+Truckload No.    : TM21070018
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 17
+Tote M Max.      : 6
+Doc Max.         : 18
+G Tote L.        : 17
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 18
+Send TMS         : {"truckload_index":"e39d6d31-a97f-41ff-887e-d53d80cfaaf7","truckload_no":"TM21070018","tm_index":"613e1d00-f917-49de-9b7b-94118cb0aa0a","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"17","return_tote_max_m":"6","docreturn_max":"18","return_tote_qty_xl":17,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":18}
+Send TMS Result  : False
+Truckload No.    : TM21070027
+Return Date.     : 7/8/2021 12:00:00 AM
+Tote L Max.      : 5
+Tote M Max.      : 1
+Doc Max.         : 2
+G Tote L.        : 5
+G Tote M.        : 1
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 2
+Send TMS         : {"truckload_index":"fce7d4b1-fad4-440f-b946-d53df95df7c6","truckload_no":"TM21070027","tm_index":"1cf8ffaa-c04f-4767-bb8e-34e60ac1cd4a","truckload_return_date":"2021-07-08T00:00:00","return_tote_max_xl":"5","return_tote_max_m":"1","docreturn_max":"2","return_tote_qty_xl":5,"return_tote_qty_m":1,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":2}
+Send TMS Result  : False
+Truckload No.    : TM21070095
+Return Date.     : 7/10/2021 12:00:00 AM
+Tote L Max.      : 10
+Tote M Max.      : 6
+Doc Max.         : 12
+G Tote L.        : 10
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 12
+Send TMS         : {"truckload_index":"b05a62f6-d426-41b9-8d99-d67e88be38cd","truckload_no":"TM21070095","tm_index":"9a1dc2cd-cfed-4c61-a23b-2056a878813b","truckload_return_date":"2021-07-10T00:00:00","return_tote_max_xl":"10","return_tote_max_m":"6","docreturn_max":"12","return_tote_qty_xl":10,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":12}
+Send TMS Result  : False
+Truckload No.    : TM21070093
+Return Date.     : 7/10/2021 12:00:00 AM
+Tote L Max.      : 15
+Tote M Max.      : 3
+Doc Max.         : 9
+G Tote L.        : 15
+G Tote M.        : 3
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 9
+Send TMS         : {"truckload_index":"f1202538-7802-460a-889b-e11316a3044c","truckload_no":"TM21070093","tm_index":"c0c30279-f1ad-4ae4-9fee-404172c15d79","truckload_return_date":"2021-07-10T00:00:00","return_tote_max_xl":"15","return_tote_max_m":"3","docreturn_max":"9","return_tote_qty_xl":15,"return_tote_qty_m":3,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":9}
+Send TMS Result  : False
+Truckload No.    : TM21070087
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 8
+Tote M Max.      : 0
+Doc Max.         : 4
+G Tote L.        : 8
+G Tote M.        : 0
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 4
+Send TMS         : {"truckload_index":"957ee45b-5b2e-4f79-81c6-e225544ecb53","truckload_no":"TM21070087","tm_index":"ec75d115-1750-4e1d-ba0b-37347d205603","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"8","return_tote_max_m":"0","docreturn_max":"4","return_tote_qty_xl":8,"return_tote_qty_m":0,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":4}
+Send TMS Result  : False
+Truckload No.    : TM21070020
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 21
+Tote M Max.      : 4
+Doc Max.         : 13
+G Tote L.        : 21
+G Tote M.        : 4
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 13
+Send TMS         : {"truckload_index":"2d92bfab-194a-4419-84f6-ecca055509a3","truckload_no":"TM21070020","tm_index":"49df1444-6c91-4ba0-9e54-b8587dcc8a28","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"21","return_tote_max_m":"4","docreturn_max":"13","return_tote_qty_xl":21,"return_tote_qty_m":4,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":13}
+Send TMS Result  : False
+Truckload No.    : TM21070029
+Return Date.     : 7/6/2021 12:00:00 AM
+Tote L Max.      : 28
+Tote M Max.      : 7
+Doc Max.         : 20
+G Tote L.        : 28
+G Tote M.        : 7
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 20
+Send TMS         : {"truckload_index":"a62a54ef-dc34-45aa-b3b9-ed999927e578","truckload_no":"TM21070029","tm_index":"30c255e4-23be-4130-8ccf-5d256c5fab6c","truckload_return_date":"2021-07-06T00:00:00","return_tote_max_xl":"28","return_tote_max_m":"7","docreturn_max":"20","return_tote_qty_xl":28,"return_tote_qty_m":7,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":20}
+Send TMS Result  : False
+Truckload No.    : TM21070077
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 18
+Tote M Max.      : 4
+Doc Max.         : 15
+G Tote L.        : 18
+G Tote M.        : 4
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 15
+Send TMS         : {"truckload_index":"9dafce86-2d99-46bb-b33e-f134b73121b8","truckload_no":"TM21070077","tm_index":"e5107121-4328-4d5c-9c87-f38487081065","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"18","return_tote_max_m":"4","docreturn_max":"15","return_tote_qty_xl":18,"return_tote_qty_m":4,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":15}
+Send TMS Result  : False
+Truckload No.    : TM21070028
+Return Date.     : 7/6/2021 12:00:00 AM
+Tote L Max.      : 22
+Tote M Max.      : 11
+Doc Max.         : 23
+G Tote L.        : 22
+G Tote M.        : 11
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 23
+Send TMS         : {"truckload_index":"a0656a70-aaa7-4488-a007-f3b612e74fe7","truckload_no":"TM21070028","tm_index":"6103607c-e926-4872-976f-bf35b844a161","truckload_return_date":"2021-07-06T00:00:00","return_tote_max_xl":"22","return_tote_max_m":"11","docreturn_max":"23","return_tote_qty_xl":22,"return_tote_qty_m":11,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":23}
+Send TMS Result  : False
+Truckload No.    : TM21070011
+Return Date.     : 7/5/2021 12:00:00 AM
+Tote L Max.      : 7
+Tote M Max.      : 5
+Doc Max.         : 9
+G Tote L.        : 7
+G Tote M.        : 5
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 9
+Send TMS         : {"truckload_index":"aa9c2123-3ec3-432d-87c8-f51c72df2d4b","truckload_no":"TM21070011","tm_index":"4830de39-b245-4b3b-8f80-9abb9044ca1d","truckload_return_date":"2021-07-05T00:00:00","return_tote_max_xl":"7","return_tote_max_m":"5","docreturn_max":"9","return_tote_qty_xl":7,"return_tote_qty_m":5,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":9}
+Send TMS Result  : False
+Truckload No.    : TM21070119
+Return Date.     : 7/9/2021 12:00:00 AM
+Tote L Max.      : 21
+Tote M Max.      : 6
+Doc Max.         : 15
+G Tote L.        : 21
+G Tote M.        : 6
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 15
+Send TMS         : {"truckload_index":"c2532198-857e-4e4f-bff7-f61c04ac4396","truckload_no":"TM21070119","tm_index":"b536976e-8cf0-459d-b176-056ed07ce77e","truckload_return_date":"2021-07-09T00:00:00","return_tote_max_xl":"21","return_tote_max_m":"6","docreturn_max":"15","return_tote_qty_xl":21,"return_tote_qty_m":6,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":15}
+Send TMS Result  : False
+Truckload No.    : TM21070096
+Return Date.     : 7/10/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 11
+Doc Max.         : 20
+G Tote L.        : 13
+G Tote M.        : 11
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 20
+Send TMS         : {"truckload_index":"3b895701-865c-47e3-a145-f6c79d2dafe4","truckload_no":"TM21070096","tm_index":"2103eb35-b135-4cc1-a082-ef5ce52dfca8","truckload_return_date":"2021-07-10T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"11","docreturn_max":"20","return_tote_qty_xl":13,"return_tote_qty_m":11,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":20}
+Send TMS Result  : False
+Truckload No.    : TM21070046
+Return Date.     : 7/7/2021 12:00:00 AM
+Tote L Max.      : 13
+Tote M Max.      : 12
+Doc Max.         : 19
+G Tote L.        : 13
+G Tote M.        : 12
+D Tote L.        : 0
+D Tote M.        : 0
+Doc.             : 19
+Send TMS         : {"truckload_index":"7bbd2fb4-4cf0-40d2-beab-fc7cab47b78f","truckload_no":"TM21070046","tm_index":"c25d31b1-9e39-404c-a41e-0434f30b76b2","truckload_return_date":"2021-07-07T00:00:00","return_tote_max_xl":"13","return_tote_max_m":"12","docreturn_max":"19","return_tote_qty_xl":13,"return_tote_qty_m":12,"return_tote_qty_dmg_xl":0,"return_tote_qty_dmg_m":0,"return_doc":19}
+Send TMS Result  : False

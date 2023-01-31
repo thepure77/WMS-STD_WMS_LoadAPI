@@ -1,0 +1,56 @@
+Start Task       : 2021-05-26-1956
+Select Truckload : 4
+Truckload No.    : TM21050118
+Return Date.     : 6/17/2021 12:00:00 AM
+Tote L Max.      : 3
+Tote M Max.      : 1
+Doc Max.         : 2
+G Tote L.        : 2
+G Tote M.        : 0
+D Tote L.        : 1
+D Tote M.        : 1
+Doc.             : 2
+Send TMS         : {"truckload_index":"c610b490-820a-44a2-9db8-27e331472014","truckload_no":"TM21050118","tm_index":"73e63606-19be-eb11-9759-000c29610ed2","truckload_return_date":"2021-06-17T00:00:00","return_tote_max_xl":"3","return_tote_max_m":"1","docreturn_max":"2","return_tote_qty_xl":2,"return_tote_qty_m":0,"return_tote_qty_dmg_xl":1,"return_tote_qty_dmg_m":1,"return_doc":2}
+Start Task       : 2021-05-26-1958
+Select Truckload : 4
+End              : --------------------------------------------------------------
+Truckload No.    : TM21050118
+Return Date.     : 6/17/2021 12:00:00 AM
+Tote L Max.      : 3
+Tote M Max.      : 1
+Doc Max.         : 2
+G Tote L.        : 2
+G Tote M.        : 0
+D Tote L.        : 1
+D Tote M.        : 1
+Doc.             : 2
+Send TMS         : {"truckload_index":"c610b490-820a-44a2-9db8-27e331472014","truckload_no":"TM21050118","tm_index":"73e63606-19be-eb11-9759-000c29610ed2","truckload_return_date":"2021-06-17T00:00:00","return_tote_max_xl":"3","return_tote_max_m":"1","docreturn_max":"2","return_tote_qty_xl":2,"return_tote_qty_m":0,"return_tote_qty_dmg_xl":1,"return_tote_qty_dmg_m":1,"return_doc":2}
+Start Task       : 2021-05-26-1959
+Select Truckload : 4
+End              : --------------------------------------------------------------
+Truckload No.    : TM21050118
+Return Date.     : 6/17/2021 12:00:00 AM
+Tote L Max.      : 3
+Tote M Max.      : 1
+Doc Max.         : 2
+G Tote L.        : 2
+G Tote M.        : 0
+D Tote L.        : 1
+D Tote M.        : 1
+Doc.             : 2
+Send TMS         : {"truckload_index":"c610b490-820a-44a2-9db8-27e331472014","truckload_no":"TM21050118","tm_index":"73e63606-19be-eb11-9759-000c29610ed2","truckload_return_date":"2021-06-17T00:00:00","return_tote_max_xl":"3","return_tote_max_m":"1","docreturn_max":"2","return_tote_qty_xl":2,"return_tote_qty_m":0,"return_tote_qty_dmg_xl":1,"return_tote_qty_dmg_m":1,"return_doc":2}
+Start Task       : 2021-05-26-2002
+Select Truckload : 4
+End              : --------------------------------------------------------------
+Truckload No.    : TM21050118
+Return Date.     : 6/17/2021 12:00:00 AM
+Tote L Max.      : 3
+Tote M Max.      : 1
+Doc Max.         : 2
+G Tote L.        : 2
+G Tote M.        : 0
+D Tote L.        : 1
+D Tote M.        : 1
+Doc.             : 2
+Send TMS         : {"truckload_index":"c610b490-820a-44a2-9db8-27e331472014","truckload_no":"TM21050118","tm_index":"73e63606-19be-eb11-9759-000c29610ed2","truckload_return_date":"2021-06-17T00:00:00","return_tote_max_xl":"3","return_tote_max_m":"1","docreturn_max":"2","return_tote_qty_xl":2,"return_tote_qty_m":0,"return_tote_qty_dmg_xl":1,"return_tote_qty_dmg_m":1,"return_doc":2}
+Send TMS Result  : True
