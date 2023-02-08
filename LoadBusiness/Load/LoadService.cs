@@ -1509,6 +1509,23 @@ namespace LoadBusiness.Load
                 {
                     db.SaveChanges();
                     transactionx.Commit();
+                    
+
+                    foreach (var itemList in OldLoad)
+                    {
+                        var resmodel = new
+                        {
+                            referenceNo = itemList.PlanGoodsIssue_No,
+                            status = 103,
+                            statusAfter = 104,
+                            statusBefore = 102,
+                            statusDesc = "Loading",
+                            statusDateTime = DateTime.Now
+                        };
+                        SaveLogRequest(itemList.PlanGoodsIssue_No, JsonConvert.SerializeObject(resmodel), resmodel.statusDesc, 1, resmodel.statusDesc, Guid.NewGuid());
+                        var result_api = Utils.SendDataApi<DemoCallbackResponseViewModel>(new AppSettingConfig().GetUrl("TMS_status"), JsonConvert.SerializeObject(resmodel));
+                        SaveLogResponse(itemList.PlanGoodsIssue_No, JsonConvert.SerializeObject(result_api), resmodel.statusDesc, 1, resmodel.statusDesc, Guid.NewGuid());
+                    }
                 }
 
                 catch (Exception exy)
@@ -3145,5 +3162,57 @@ namespace LoadBusiness.Load
             }
         }
         #endregion
+
+        public string SaveLogRequest(string orderno, string json, string interfacename, int status, string txt, Guid logindex)
+        {
+            try
+            {
+                log_api_request l = new log_api_request();
+                l.log_id = logindex;
+                l.log_date = DateTime.Now;
+                l.log_requestbody = json;
+                l.log_absoluteuri = "";
+                l.status = status;
+                l.Interface_Name = interfacename;
+                l.Status_Text = txt;
+                l.File_Name = orderno;
+                db.log_api_request.Add(l);
+                db.SaveChanges();
+                return "";
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+
+        }
+
+        public string SaveLogResponse(string orderno, string json, string interfacename, int status, string txt, Guid logindex)
+        {
+            try
+            {
+                log_api_reponse l = new log_api_reponse();
+                l.log_id = logindex;
+                l.log_date = DateTime.Now;
+                l.log_reponsebody = json;
+                l.log_absoluteuri = "";
+                l.status = status;
+                l.Interface_Name = interfacename;
+                l.Status_Text = txt;
+                l.File_Name = orderno;
+                db.log_api_reponse.Add(l);
+
+                var d = db.log_api_request.Where(c => c.log_id == logindex).FirstOrDefault();
+                d.status = status;
+
+                db.SaveChanges();
+                return "";
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+
+        }
     }
 }

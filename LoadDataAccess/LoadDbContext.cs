@@ -61,6 +61,10 @@ namespace DataAccess
         public virtual DbSet<View_TagOutItemShortship> View_TagOutItemShortship { get; set; }
         public virtual DbSet<View_Trace_picking> View_Trace_picking { get; set; }
         public virtual DbSet<View_Trace_Loading> View_Trace_Loading { get; set; }
+
+        public virtual DbSet<log_api_reponse> log_api_reponse { get; set; }
+        public virtual DbSet<log_api_request> log_api_request { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)

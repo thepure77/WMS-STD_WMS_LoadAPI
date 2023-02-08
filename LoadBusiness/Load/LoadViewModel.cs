@@ -96,5 +96,17 @@ namespace LoadBusiness.Load
         {
             public List<LoadViewModel> ListTruckload { get; set; }
         }
+
+        public class DemoCallbackResponseViewModel
+        {
+            public string status { get; set; }
+            public string message { get; set; }
+            public DemoCallbackResponseItemViewModel data { get; set; }
+        }
+
+        public class DemoCallbackResponseItemViewModel
+        {
+            public string logId { get; set; }
+        }
     }
 }
