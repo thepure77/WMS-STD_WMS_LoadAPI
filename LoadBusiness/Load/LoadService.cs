@@ -1513,18 +1513,27 @@ namespace LoadBusiness.Load
 
                     foreach (var itemList in OldLoad)
                     {
-                        var resmodel = new
+                        var des = "รอโหลด";
+                        try
                         {
-                            referenceNo = itemList.PlanGoodsIssue_No,
-                            status = 103,
-                            statusAfter = 104,
-                            statusBefore = 102,
-                            statusDesc = "Loading",
-                            statusDateTime = DateTime.Now
-                        };
-                        SaveLogRequest(itemList.PlanGoodsIssue_No, JsonConvert.SerializeObject(resmodel), resmodel.statusDesc, 1, resmodel.statusDesc, Guid.NewGuid());
-                        var result_api = Utils.SendDataApi<DemoCallbackResponseViewModel>(new AppSettingConfig().GetUrl("TMS_status"), JsonConvert.SerializeObject(resmodel));
-                        SaveLogResponse(itemList.PlanGoodsIssue_No, JsonConvert.SerializeObject(result_api), resmodel.statusDesc, 1, resmodel.statusDesc, Guid.NewGuid());
+
+                            var resmodel = new
+                            {
+                                referenceNo = itemList.PlanGoodsIssue_No,
+                                status = 103,
+                                statusAfter = 104,
+                                statusBefore = 102,
+                                statusDesc = des,
+                                statusDateTime = DateTime.Now
+                            };
+                            SaveLogRequest(itemList.PlanGoodsIssue_No, JsonConvert.SerializeObject(resmodel), des, 1, des, Guid.NewGuid());
+                            var result_api = Utils.SendDataApi<DemoCallbackResponseViewModel>(new AppSettingConfig().GetUrl("TMS_status"), JsonConvert.SerializeObject(resmodel));
+                            SaveLogResponse(itemList.PlanGoodsIssue_No, JsonConvert.SerializeObject(result_api), resmodel.statusDesc, 2, resmodel.statusDesc, Guid.NewGuid());
+                        }
+                        catch (Exception ex)
+                        {
+                            SaveLogResponse(itemList.PlanGoodsIssue_No, JsonConvert.SerializeObject(ex.Message), des, -1, des, Guid.NewGuid());
+                        }
                     }
                 }
 
@@ -3202,8 +3211,8 @@ namespace LoadBusiness.Load
                 l.File_Name = orderno;
                 db.log_api_reponse.Add(l);
 
-                var d = db.log_api_request.Where(c => c.log_id == logindex).FirstOrDefault();
-                d.status = status;
+                //var d = db.log_api_request.Where(c => c.log_id == logindex).FirstOrDefault();
+                //d.status = status;
 
                 db.SaveChanges();
                 return "";
