@@ -1524,7 +1524,7 @@ namespace LoadBusiness.Load
                                 statusAfter = 104,
                                 statusBefore = 102,
                                 statusDesc = des,
-                                statusDateTime = DateTime.Now
+                                statusDateTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")
                             };
                             SaveLogRequest(itemList.PlanGoodsIssue_No, JsonConvert.SerializeObject(resmodel), des, 1, des, Guid.NewGuid());
                             var result_api = Utils.SendDataApi<DemoCallbackResponseViewModel>(new AppSettingConfig().GetUrl("TMS_status"), JsonConvert.SerializeObject(resmodel));
