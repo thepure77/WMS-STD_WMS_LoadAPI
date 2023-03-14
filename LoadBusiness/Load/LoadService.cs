@@ -1511,30 +1511,30 @@ namespace LoadBusiness.Load
                     transactionx.Commit();
                     
 
-                    foreach (var itemList in OldLoad)
-                    {
-                        var des = "รอโหลด";
-                        try
-                        {
+                    //foreach (var itemList in OldLoad)
+                    //{
+                    //    var des = "รอโหลด";
+                    //    try
+                    //    {
 
-                            var resmodel = new
-                            {
-                                referenceNo = itemList.PlanGoodsIssue_No,
-                                status = 103,
-                                statusAfter = 104,
-                                statusBefore = 102,
-                                statusDesc = des,
-                                statusDateTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")
-                            };
-                            SaveLogRequest(itemList.PlanGoodsIssue_No, JsonConvert.SerializeObject(resmodel), des, 1, des, Guid.NewGuid());
-                            var result_api = Utils.SendDataApi<DemoCallbackResponseViewModel>(new AppSettingConfig().GetUrl("TMS_status"), JsonConvert.SerializeObject(resmodel));
-                            SaveLogResponse(itemList.PlanGoodsIssue_No, JsonConvert.SerializeObject(result_api), resmodel.statusDesc, 2, resmodel.statusDesc, Guid.NewGuid());
-                        }
-                        catch (Exception ex)
-                        {
-                            SaveLogResponse(itemList.PlanGoodsIssue_No, JsonConvert.SerializeObject(ex.Message), des, -1, des, Guid.NewGuid());
-                        }
-                    }
+                    //        var resmodel = new
+                    //        {
+                    //            referenceNo = itemList.PlanGoodsIssue_No,
+                    //            status = 103,
+                    //            statusAfter = 104,
+                    //            statusBefore = 102,
+                    //            statusDesc = des,
+                    //            statusDateTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")
+                    //        };
+                    //        SaveLogRequest(itemList.PlanGoodsIssue_No, JsonConvert.SerializeObject(resmodel), des, 1, des, Guid.NewGuid());
+                    //        var result_api = Utils.SendDataApi<DemoCallbackResponseViewModel>(new AppSettingConfig().GetUrl("TMS_status"), JsonConvert.SerializeObject(resmodel));
+                    //        SaveLogResponse(itemList.PlanGoodsIssue_No, JsonConvert.SerializeObject(result_api), resmodel.statusDesc, 2, resmodel.statusDesc, Guid.NewGuid());
+                    //    }
+                    //    catch (Exception ex)
+                    //    {
+                    //        SaveLogResponse(itemList.PlanGoodsIssue_No, JsonConvert.SerializeObject(ex.Message), des, -1, des, Guid.NewGuid());
+                    //    }
+                    //}
                 }
 
                 catch (Exception exy)
